@@ -1,100 +1,54 @@
 # Engineering Handbook Series
 
-> A comprehensive series of engineering handbooks covering computer science, software engineering, artificial intelligence, cloud computing, systems programming, networking, databases, and related technical disciplines.
+> A comprehensive series of engineering handbooks covering computer science, software engineering, artificial intelligence, cloud computing, systems programming, networking, databases and related technical disciplines.
 
 ---
 
 ## Overview
 
-The **Engineering Handbook Series** is a long-term publishing initiative focused on creating high-quality, production-oriented engineering handbooks that emphasize **deep conceptual understanding** rather than superficial tutorials.
+The **Engineering Handbook Series** is a long-term publishing initiative dedicated to creating high-quality, production-oriented engineering handbooks.
 
-Each handbook is designed to explain:
+Rather than focusing solely on using technologies, every handbook explains the engineering principles, internal architecture, design decisions and production practices behind modern software systems.
 
-- Why technologies exist.
-- How they evolved.
-- How they work internally.
-- Engineering trade-offs.
-- Production implementations.
-- Best practices.
-- Real-world architecture.
-
-The objective is to build a collection of reference-quality engineering literature that remains valuable across multiple generations of technologies.
+The goal is to build a collection of reference-quality engineering literature that remains valuable across multiple generations of technologies.
 
 ---
 
 ## Educational Philosophy
 
-The Engineering Handbook Series follows several core educational principles.
+The Engineering Handbook Series is built upon several core principles.
 
 - Teach **WHY** before **HOW**.
 - Build intuition before introducing terminology.
-- Focus on engineering thinking instead of memorization.
-- Explain internal architecture rather than only external APIs.
-- Connect concepts across engineering domains.
+- Explain engineering decisions rather than memorized procedures.
+- Emphasize internal architecture over external APIs.
+- Connect concepts across engineering disciplines.
 - Prefer timeless engineering principles over rapidly changing technologies.
-- Bridge academic theory and production systems.
+- Bridge academic theory with production engineering.
 
 ---
 
-## Current Status
+# Repository Contents
 
-🚧 The project is currently under active development.
+This repository serves as the public home of the Engineering Handbook Series.
 
-The first edition of the **Database Engineering Handbook** is in progress, while additional engineering handbooks are being planned.
+It currently includes
 
-More handbook information will be published as development progresses.
+- Handbook information
+- Curriculum and volume structure
+- Chapter overviews
+- Project progress
+- Licensing information
+- Pricing information
+- Release updates
 
----
-
-## Planned Handbook Series
-
-The Engineering Handbook Series is expected to include handbooks covering areas such as:
-
-- Database Engineering
-- Operating Systems
-- Linux Engineering
-- Networking
-- Computer Architecture
-- Distributed Systems
-- Compiler Engineering
-- Programming Languages
-- Artificial Intelligence
-- Machine Learning
-- Cloud Computing
-- DevOps
-- Cybersecurity
-- System Design
-- Software Engineering
-- Web Engineering
-- Blockchain Engineering
-- Graphics Programming
-- Embedded Systems
-
-Additional handbook series may be introduced in the future.
+Additional resources will be published as development progresses.
 
 ---
 
-## Repository Structure
+# Available Handbooks
 
-This repository serves as the public index for the Engineering Handbook Series.
-
-It will gradually include:
-
-- Handbook overviews
-- Curriculum information
-- Volume structure
-- Chapter lists
-- Progress tracking
-- Release information
-- Future roadmap
-
-Internal publishing specifications, editorial standards, templates and development workflows are maintained privately and are not included in this repository.
-
----
-
-## Progress
-
-Current progress will be updated as new handbooks are developed and published.
+The `handbooks/` directory contains information about every handbook within the Engineering Handbook Series.
 
 | Handbook | Status |
 |----------|--------|
@@ -105,30 +59,66 @@ Current progress will be updated as new handbooks are developed and published.
 | Compiler Engineering Handbook | 📋 Planned |
 | Artificial Intelligence Handbook | 📋 Planned |
 
+Additional handbook pages will be added over time.
+
 ---
 
-## Upcoming Updates
+# Repository Structure
 
-The repository is currently being organized.
+```text
+.
+├── handbooks/
+│   ├── database-engineering-handbook.md
+│   ├── operating-systems-handbook.md
+│   └── ...
+│
+├── LICENSE.md
+├── PRICING.md
+├── README.md
+└── ...
+```
 
-The following content will be added gradually:
+---
 
-- Individual handbook pages
-- Complete chapter lists
-- Volume organization
-- Handbook progress
+# Current Status
+
+🚧 The project is currently under active development.
+
+The first edition of the **Database Engineering Handbook** is in progress while additional handbook pages are being prepared.
+
+New content will be added gradually as development continues.
+
+---
+
+# Future Updates
+
+Planned additions include
+
+- Additional handbook pages
+- New handbook announcements
 - Release information
 - Future editions
+- Project roadmap
+- Changelog
 
 ---
 
-## License
+# Public Resources
 
-Licensing information will be published alongside the handbook releases.
+This repository will gradually include the following public documents.
+
+- Handbook Information
+- Licensing Information
+- Pricing Information
+- Release Notes
+- Project Roadmap
+- Changelog
+
+Internal publishing specifications, editorial standards, diagram standards, templates, quality assurance documents and publishing workflows remain private and are **not** part of this repository.
 
 ---
 
-## Author
+# Author
 
 **Sharique Chaudhary**
 
