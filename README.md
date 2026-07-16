@@ -28,7 +28,7 @@ The Engineering Handbook Series is built upon several core principles.
 
 ---
 
-# Repository Contents
+## Repository Contents
 
 This repository serves as the public home of the Engineering Handbook Series.
 
@@ -46,7 +46,7 @@ Additional resources will be published as development progresses.
 
 ---
 
-# Available Handbooks
+## Available Handbooks
 
 The `handbooks/` directory contains information about every handbook within the Engineering Handbook Series.
 
@@ -63,24 +63,44 @@ Additional handbook pages will be added over time.
 
 ---
 
-# Repository Structure
+## Repository Layout
 
 ```text
-.
-├── handbooks/
-│   ├── database-engineering-handbook.md
-│   ├── operating-systems-handbook.md
-│   └── ...
-│
-├── LICENSE.md
-├── PRICING.md
-├── README.md
-└── ...
+handbooks/
+├── database-engineering-handbook/
+├── operating-systems-engineering-handbook/
+├── linux-engineering-handbook/
+├── networking-engineering-handbook/
+├── computer-architecture-handbook/
+├── distributed-systems-handbook/
+├── compiler-engineering-handbook/
+├── programming-languages-handbook/
+├── artificial-intelligence-handbook/
+├── machine-learning-handbook/
+├── cloud-computing-handbook/
+├── devops-engineering-handbook/
+├── cybersecurity-handbook/
+├── software-engineering-handbook/
+├── system-design-handbook/
+├── web-engineering-handbook/
+├── blockchain-engineering-handbook/
+├── graphics-programming-handbook/
+└── embedded-systems-handbook/
 ```
+
+Each handbook directory contains:
+
+- Handbook overview
+- Volume organization
+- Curriculum
+- Chapter summaries
+- Progress tracking
+- Edition information
+- Release information (when available)
 
 ---
 
-# Current Status
+## Current Status
 
 🚧 The project is currently under active development.
 
@@ -90,7 +110,7 @@ New content will be added gradually as development continues.
 
 ---
 
-# Future Updates
+## Future Updates
 
 Planned additions include
 
@@ -103,7 +123,7 @@ Planned additions include
 
 ---
 
-# Public Resources
+## Public Resources
 
 This repository will gradually include the following public documents.
 
@@ -118,7 +138,7 @@ Internal publishing specifications, editorial standards, diagram standards, temp
 
 ---
 
-# Author
+## Author
 
 **Sharique Chaudhary**
 

@@ -14,7 +14,7 @@ The handbook follows the philosophy of **teaching WHY before HOW**, helping read
 
 ---
 
-# Handbook Information
+## Handbook Information
 
 | Property | Value |
 |----------|-------|
@@ -31,7 +31,7 @@ The handbook follows the philosophy of **teaching WHY before HOW**, helping read
 
 ---
 
-# Learning Outcomes
+## Learning Outcomes
 
 After completing this handbook, readers should be able to:
 
@@ -46,7 +46,7 @@ After completing this handbook, readers should be able to:
 
 ---
 
-# Target Audience
+## Target Audience
 
 This handbook is intended for:
 
@@ -63,9 +63,9 @@ Basic programming knowledge and familiarity with SQL are helpful but not require
 
 ---
 
-# Volume Structure
+## Volume Structure
 
-## Volume I — Database Foundations & Storage Engines
+### Volume I — Database Foundations & Storage Engines
 
 **Purpose**
 
@@ -84,7 +84,7 @@ Build a strong foundation in database architecture, storage organization and ind
 
 ---
 
-## Volume II — Building a SQL Database Engine
+### Volume II — Building a SQL Database Engine
 
 **Purpose**
 
@@ -104,7 +104,7 @@ Learn how relational database engines process SQL statements internally.
 
 ---
 
-## Volume III — Transactions & Distributed Databases
+### Volume III — Transactions & Distributed Databases
 
 **Purpose**
 
@@ -121,7 +121,7 @@ Understand how databases maintain correctness, consistency and scalability.
 
 ---
 
-## Volume IV — Database Systems in Production
+### Volume IV — Database Systems in Production
 
 **Purpose**
 
@@ -140,7 +140,7 @@ Study how production database systems implement engineering concepts.
 
 ---
 
-## Volume V — Modern Database Engineering & Capstone
+### Volume V — Modern Database Engineering & Capstone
 
 **Purpose**
 
@@ -160,7 +160,7 @@ Apply engineering concepts to modern architectures, operations and implementatio
 
 ---
 
-# Current Status
+## Current Status
 
 🚧 **First Edition is currently under development.**
 
@@ -168,7 +168,7 @@ Progress, release information and future editions will be published as developme
 
 ---
 
-# Related Handbooks
+## Related Handbooks
 
 - Operating Systems Handbook *(Planned)*
 - Linux Engineering Handbook *(Planned)*
@@ -177,13 +177,13 @@ Progress, release information and future editions will be published as developme
 
 ---
 
-# Future Editions
+## Future Editions
 
 Future editions will expand existing topics, refine explanations, improve diagrams and incorporate advances in database engineering while preserving the handbook's educational philosophy.
 
 ---
 
-# License
+## License
 
 Licensing information will be published alongside the official handbook release.
 
