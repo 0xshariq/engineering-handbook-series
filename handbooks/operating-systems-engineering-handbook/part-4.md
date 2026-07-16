@@ -109,8 +109,6 @@ This volume explores trusted operating system boot chains, runtime integrity ver
 
 ---
 
----
-
 ## Volume XIII — Advanced
 
 **Learning Level:** Advanced
@@ -178,8 +176,6 @@ A concise reference of important terminology introduced throughout this volume.
 ### Volume XIII Summary
 
 This volume explores distributed operating systems, memory-centric computing, resource disaggregation, rack-scale architectures, and emerging research directions that redefine how operating systems manage compute, memory, storage, and networking beyond the boundaries of a single machine.
-
----
 
 ---
 
@@ -252,8 +248,6 @@ This volume explores the convergence of operating systems and modern execution e
 
 ---
 
----
-
 ## Volume XV — Advanced
 
 **Learning Level:** Advanced
@@ -321,8 +315,6 @@ A concise reference of important terminology introduced throughout this volume.
 ### Volume XV Summary
 
 This volume explores the evolution of operating system security beyond traditional permission models through mandatory access control, kernel security frameworks, sandboxing technologies, capability systems, and modern policy-based authorization architectures.
-
----
 
 ---
 

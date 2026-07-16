@@ -226,8 +226,6 @@ This volume explores advanced interactive operating system subsystems, secure li
 
 ---
 
----
-
 ## Volume IX — Advanced
 
 **Learning Level:** Advanced
@@ -375,8 +373,6 @@ A concise reference of important terminology introduced throughout this volume.
 ### Volume IX Summary
 
 This volume explores advanced execution-state portability, live operating system evolution, runtime kernel maintenance, and emerging hardware-assisted memory safety technologies that shape the next generation of secure and reliable operating systems.
-
----
 
 ---
 
@@ -574,8 +570,6 @@ A concise reference of important terminology introduced throughout this volume.
 ### Volume X Summary
 
 This volume explores operating system engineering for emerging processor architectures, advanced filesystem implementations, distributed storage interfaces, and modern defenses against speculative execution and microarchitectural security vulnerabilities.
-
----
 
 ---
 

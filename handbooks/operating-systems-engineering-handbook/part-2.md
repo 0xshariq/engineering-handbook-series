@@ -289,7 +289,6 @@ By completing **Volume VI (Advanced)**, readers will have:
 
 ---
 
----
 
 ## Volume VII — Advanced
 
