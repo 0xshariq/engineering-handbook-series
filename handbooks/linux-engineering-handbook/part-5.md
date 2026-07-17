@@ -220,4 +220,4 @@ Volume XV serves as both an advanced engineering reference and a deep exploratio
 
 ## Continue Reading
 
-Continue with **Markdown Part 6**, beginning with **Volume XVI — Advanced Linux Distribution Engineering**.
+Continue with **Markdown Part 6**, beginning with **Volume XVI — Red Hat, Fedora, RPM, and Enterprise Linux Internals → Kernel Development Infrastructure, Upstream Engineering, and Maintenance**.

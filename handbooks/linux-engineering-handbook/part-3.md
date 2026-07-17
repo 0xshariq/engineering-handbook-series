@@ -110,53 +110,107 @@ Volume VI introduces advanced Linux security and observability engineering. Read
 
 ---
 
-====================================================================================================
-VOLUME VIII — ADVANCED: Linux Performance Engineering
-====================================================================================================
+## Volume VII — Advanced
 
-PART XXVII — Linux Performance Engineering
+**Learning Level:** Advanced
 
-- Chapter 745 — Performance Is a Systems Problem
-- Chapter 746 — Performance Methodology
-- Chapter 747 — Establishing Baselines
-- Chapter 748 — Workload Characterization
-- Chapter 749 — CPU Performance
-- Chapter 750 — Scheduler Performance
-- Chapter 751 — Memory Performance
-- Chapter 752 — NUMA Performance
-- Chapter 753 — Storage Performance
-- Chapter 754 — Filesystem Performance
-- Chapter 755 — Network Performance
-- Chapter 756 — Lock Contention
-- Chapter 757 — System Call Overhead
-- Chapter 758 — Context Switches
-- Chapter 759 — CPU Cache Behaviour
-- Chapter 760 — Interrupts
-- Chapter 761 — SoftIRQs
-- Chapter 762 — Pressure Metrics
-- Chapter 763 — perf-Based Analysis
-- Chapter 764 — BPF-Based Analysis
-- Chapter 765 — Flame Graph Analysis
-- Chapter 766 — Linux Benchmarking
-- Chapter 767 — Benchmarking Mistakes
-- Chapter 768 — Capacity Planning
-- Chapter 769 — Complete Performance Investigation
+**Theme**
 
-- Chapter 770 — Volume VIII Glossary
-  
+Linux eBPF Engineering
+
+**Objective**
+
+Develop a comprehensive understanding of the Extended Berkeley Packet Filter (eBPF) ecosystem by exploring its architecture, virtual machine, verifier, tracing infrastructure, networking acceleration, security integrations, and production observability workflows. By completing this volume, readers will understand how eBPF safely extends the Linux kernel without modifying kernel source code.
+
+---
+
+### Part XXVI — Linux eBPF Engineering
+
+**Purpose**
+
+Understand how eBPF evolved from Berkeley Packet Filter technology into one of Linux's most powerful extensibility frameworks, enabling safe kernel programmability for networking, tracing, security, observability, and performance engineering.
+
+| Chapter | Purpose |
+|---------|---------|
+| Chapter 718 — Berkeley Packet Filter History | Understand the origins of Berkeley Packet Filter technology. |
+| Chapter 719 — Classic BPF | Learn the architecture and limitations of classic BPF. |
+| Chapter 720 — The Birth of eBPF | Explore the evolution from classic BPF to Extended BPF. |
+| Chapter 721 — eBPF Architecture | Understand the overall architecture of the eBPF subsystem. |
+| Chapter 722 — BPF Virtual Machine | Learn how the in-kernel BPF virtual machine executes programs. |
+| Chapter 723 — BPF Instructions | Explore the eBPF instruction set architecture. |
+| Chapter 724 — BPF Verifier | Understand how the verifier guarantees program safety. |
+| Chapter 725 — BPF Maps | Learn persistent data sharing using BPF maps. |
+| Chapter 726 — BPF Helpers | Explore kernel helper functions available to BPF programs. |
+| Chapter 727 — BPF Program Types | Understand the different categories of eBPF programs. |
+| Chapter 728 — BPF Attach Points | Learn how eBPF programs attach to kernel events and hooks. |
+| Chapter 729 — BTF | Understand BPF Type Format metadata and kernel type information. |
+| Chapter 730 — CO-RE | Learn Compile Once – Run Everywhere techniques for portable eBPF applications. |
+| Chapter 731 — libbpf | Explore the primary userspace library for eBPF development. |
+| Chapter 732 — bpftool | Learn inspection, debugging, and management using bpftool. |
+| Chapter 733 — bpftrace | Understand high-level tracing using bpftrace. |
+| Chapter 734 — BCC Context | Explore the BPF Compiler Collection ecosystem. |
+| Chapter 735 — BPF Tracing | Learn kernel tracing using eBPF instrumentation. |
+| Chapter 736 — BPF Networking | Understand networking applications built with eBPF. |
+| Chapter 737 — XDP | Explore Express Data Path for high-performance packet processing. |
+| Chapter 738 — AF_XDP | Learn zero-copy packet processing with AF_XDP sockets. |
+| Chapter 739 — BPF Security | Understand how eBPF enhances Linux security capabilities. |
+| Chapter 740 — BPF LSM | Explore Linux Security Module integration with eBPF. |
+| Chapter 741 — BPF Performance Analysis | Learn performance profiling and optimization using eBPF. |
+| Chapter 742 — eBPF Safety and Limitations | Understand the design constraints and safety guarantees of eBPF. |
+| Chapter 743 — Building an eBPF Investigation Workflow | Integrate tracing, networking, and observability into a practical engineering workflow. |
+
+---
+
+## Volume VII Glossary
+
+**Chapter 744 — Volume VII Glossary**
+
+A concise reference covering Berkeley Packet Filter, eBPF architecture, verifier, virtual machine, maps, helpers, BTF, CO-RE, libbpf, bpftool, bpftrace, BCC, XDP, AF_XDP, tracing, networking, security integrations, and production observability.
+
+---
+
+### Volume VII Summary
+
+Volume VII introduces one of the most transformative technologies in modern Linux engineering: eBPF. Readers learn how Linux safely executes programmable kernel logic without modifying kernel source code, enabling advanced networking, tracing, security, observability, and performance analysis. This volume establishes the conceptual foundation required for modern cloud-native infrastructure, production debugging, and next-generation Linux systems engineering.
+
 ---
 
 ## Volume VIII — Advanced
 
 **Learning Level:** Advanced
 
-**Theme**
+### Theme
 
-Linux Performance Engineering
+**Linux Networking Engineering → Linux Network Services**
 
-**Objective**
+### Overview
 
-Master the principles, methodologies, and tools required to analyze, benchmark, optimize, and troubleshoot Linux performance across CPU, memory, storage, networking, scheduling, and application workloads. By completing this volume, readers will be able to conduct systematic performance investigations and make data-driven optimization decisions for production Linux systems.
+Volume VIII transitions from kernel-level programmability (eBPF in Volume VII) into the complete Linux networking stack. It explains how packets move through the Linux kernel, how interfaces and routing are managed, how firewalling and traffic control work, and how Linux provides production-grade network services.
+
+The volume builds a deep understanding of:
+
+- Linux network stack architecture
+- Ethernet, IP, ARP, and neighbor discovery
+- Routing and policy routing
+- Netfilter, nftables, and packet filtering
+- Connection tracking (conntrack)
+- Traffic control (tc), queuing disciplines, and QoS
+- Network namespaces and virtual networking
+- Bridges, VLANs, VXLAN, bonding, and tunneling
+- DNS, DHCP, NTP, SSH, and other essential Linux network services
+- High availability and production networking practices
+- Diagnosing complex networking failures
+
+### Goal
+
+By the end of this volume, a reader should be able to:
+
+- Understand every stage of packet processing inside Linux.
+- Configure and troubleshoot enterprise Linux networking.
+- Design secure network architectures using nftables and policy routing.
+- Build virtualized and container networking.
+- Manage production network services.
+- Diagnose networking issues from Layer 2 through Layer 7 using modern Linux tools.
 
 ---
 
