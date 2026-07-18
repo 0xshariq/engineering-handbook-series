@@ -68,6 +68,19 @@ Additional resources will be published as development progresses.
 
 ---
 
+## Development Status
+
+The Engineering Handbook Series is developed incrementally. Each handbook curriculum includes a **Status** column to indicate the current development progress of every chapter.
+
+| Status | Meaning |
+|--------|---------|
+| ✅ **Done** | The chapter has been completed and is part of the current handbook manuscript. |
+| 🚧 **Pending** | The handbook is currently under active development, but this chapter has not yet been generated. |
+| 📋 **Planned** | Development of the handbook has not yet started. |
+
+As handbook development progresses, chapter statuses will be updated to reflect the latest progress.
+
+---
 
 ## Documentation
 
