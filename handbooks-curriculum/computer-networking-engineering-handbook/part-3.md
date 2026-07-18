@@ -470,3 +470,235 @@ Develop a first-principles understanding of modern web communication by explorin
 | Chapter 1046 — Push Notification Network Architecture | Learn how global push notification systems operate. | 📋 Planned |
 | Chapter 1047 — Designing a Global Real-Time Messaging Transport | Apply production engineering principles to build a scalable messaging platform. | 📋 Planned |
 
+---
+
+## Part XXXII — Wi-Fi 7 Internals, 6 GHz Networking, and Wi-Fi Evolution
+
+**Purpose**
+
+Develop an advanced understanding of next-generation wireless LAN technologies by exploring Wi-Fi 7 architecture, Extremely High Throughput (EHT), Multi-Link Operation (MLO), 6 GHz networking, coordinated wireless technologies, and future Wi-Fi evolution while learning how modern WLANs achieve higher capacity, lower latency, and greater reliability.
+
+| Chapter | Purpose | Status |
+|---------|---------|--------|
+| Chapter 1048 — Wi-Fi PHY and MAC Evolution Revisited | Understand how Wi-Fi PHY and MAC technologies evolved into modern wireless systems. | 📋 Planned |
+| Chapter 1049 — Wi-Fi 7 Extremely High Throughput Architecture | Learn the architectural foundations of IEEE 802.11be (Wi-Fi 7). | 📋 Planned |
+| Chapter 1050 — 320 MHz Channels | Understand ultra-wide channel operation in Wi-Fi 7. | 📋 Planned |
+| Chapter 1051 — 4096-QAM | Learn how higher-order modulation improves wireless throughput. | 📋 Planned |
+| Chapter 1052 — Multi-Link Devices | Understand the architecture of Multi-Link capable wireless devices. | 📋 Planned |
+| Chapter 1053 — Multi-Link Operation from First Principles | Learn how simultaneous multi-band communication improves wireless performance. | 📋 Planned |
+| Chapter 1054 — Multi-Link Discovery and Association | Understand how Multi-Link devices discover and establish connections. | 📋 Planned |
+| Chapter 1055 — Multi-Link Traffic Mapping | Learn how traffic is distributed across multiple wireless links. | 📋 Planned |
+| Chapter 1056 — Simultaneous Transmit and Receive MLO | Understand concurrent transmission and reception across multiple links. | 📋 Planned |
+| Chapter 1057 — Enhanced Multi-Link Single Radio | Learn single-radio implementations of Multi-Link Operation. | 📋 Planned |
+| Chapter 1058 — Multi-Link Reordering and Latency | Understand packet ordering and latency management across multiple links. | 📋 Planned |
+| Chapter 1059 — Multiple Resource Units | Learn advanced OFDMA resource allocation techniques. | 📋 Planned |
+| Chapter 1060 — Preamble Puncturing | Understand spectrum utilization using punctured channels. | 📋 Planned |
+| Chapter 1061 — Restricted Target Wake Time | Learn advanced power-saving mechanisms in Wi-Fi 7. | 📋 Planned |
+| Chapter 1062 — Wi-Fi 7 Block Acknowledgement Evolution | Understand enhancements to wireless acknowledgement mechanisms. | 📋 Planned |
+| Chapter 1063 — Wi-Fi 7 Roaming Considerations | Learn mobility optimization within Wi-Fi 7 deployments. | 📋 Planned |
+| Chapter 1064 — 6 GHz Wi-Fi Regulatory Models | Understand global regulatory frameworks governing 6 GHz Wi-Fi. | 📋 Planned |
+| Chapter 1065 — Automated Frequency Coordination | Learn dynamic spectrum coordination for wireless deployments. | 📋 Planned |
+| Chapter 1066 — Preferred Scanning Channels | Understand efficient wireless channel discovery mechanisms. | 📋 Planned |
+| Chapter 1067 — Wi-Fi 6E vs Wi-Fi 7 Engineering | Compare architectural improvements introduced by Wi-Fi 7. | 📋 Planned |
+| Chapter 1068 — Multi-AP Coordination Concepts | Learn coordinated operation across multiple wireless access points. | 📋 Planned |
+| Chapter 1069 — Coordinated Spatial Reuse | Understand spatial spectrum optimization techniques. | 📋 Planned |
+| Chapter 1070 — Coordinated Beamforming | Learn collaborative beamforming strategies in wireless networks. | 📋 Planned |
+| Chapter 1071 — Wi-Fi 8 Ultra High Reliability Vision | Explore the future direction of next-generation Wi-Fi standards. | 📋 Planned |
+| Chapter 1072 — Wireless Reliability vs Peak Throughput | Understand engineering trade-offs between reliability and performance. | 📋 Planned |
+| Chapter 1073 — Enterprise Wi-Fi Capacity Design | Learn capacity planning for large enterprise WLAN deployments. | 📋 Planned |
+| Chapter 1074 — High-Density Wi-Fi Design | Understand wireless engineering for dense client environments. | 📋 Planned |
+| Chapter 1075 — Wi-Fi Airtime Fairness | Learn fairness mechanisms for shared wireless media. | 📋 Planned |
+| Chapter 1076 — Wireless Packet Capture Challenges | Understand packet analysis limitations within modern Wi-Fi networks. | 📋 Planned |
+| Chapter 1077 — Designing a Modern Multi-Band WLAN | Apply production engineering principles to design high-performance wireless LANs. | 📋 Planned |
+
+---
+
+## Part XXXIII — Cellular Core Protocols, Open RAN, and Mobile Transport
+
+**Purpose**
+
+Develop an expert-level understanding of modern cellular networking by exploring LTE and 5G core architectures, GTP tunneling, service-based networking, Open RAN, mobile transport, synchronization, and cloud-native mobile infrastructures while learning how global mobile operators build scalable and resilient communication systems.
+
+| Chapter | Purpose | Status |
+|---------|---------|--------|
+| Chapter 1078 — Cellular User Plane vs Control Plane | Understand the separation of user and control traffic in cellular networks. | 📋 Planned |
+| Chapter 1079 — LTE S1 Interfaces | Learn the interfaces connecting LTE radio and core networks. | 📋 Planned |
+| Chapter 1080 — LTE Bearers | Understand bearer establishment and traffic management in LTE. | 📋 Planned |
+| Chapter 1081 — GTP from First Principles | Learn the foundations of GPRS Tunneling Protocol. | 📋 Planned |
+| Chapter 1082 — GTP-U Tunneling | Understand user-plane packet transport within mobile cores. | 📋 Planned |
+| Chapter 1083 — Diameter in Mobile Cores | Learn authentication and policy management using Diameter. | 📋 Planned |
+| Chapter 1084 — 5G Service-Based Architecture | Understand the service-oriented architecture of 5G Core. | 📋 Planned |
+| Chapter 1085 — 5G Network Functions | Learn the functional building blocks of modern mobile cores. | 📋 Planned |
+| Chapter 1086 — AMF | Understand the responsibilities of the Access and Mobility Management Function. | 📋 Planned |
+| Chapter 1087 — SMF | Learn session management within 5G Core networks. | 📋 Planned |
+| Chapter 1088 — UPF | Understand user-plane packet forwarding in 5G. | 📋 Planned |
+| Chapter 1089 — AUSF | Learn authentication services within 5G Core. | 📋 Planned |
+| Chapter 1090 — UDM | Understand subscriber data management in 5G networks. | 📋 Planned |
+| Chapter 1091 — NRF | Learn service discovery among 5G network functions. | 📋 Planned |
+| Chapter 1092 — NSSF | Understand network slice selection mechanisms. | 📋 Planned |
+| Chapter 1093 — 5G PDU Sessions | Learn packet data session establishment and management. | 📋 Planned |
+| Chapter 1094 — 5G QoS Flows | Understand quality-of-service architecture within 5G. | 📋 Planned |
+| Chapter 1095 — 5G Network Exposure | Learn API-based exposure of mobile network capabilities. | 📋 Planned |
+| Chapter 1096 — PFCP | Understand control of user-plane forwarding elements. | 📋 Planned |
+| Chapter 1097 — 5G User Plane Tunneling | Learn packet transport within cloud-native mobile cores. | 📋 Planned |
+| Chapter 1098 — Control and User Plane Separation | Understand scalable separation of network functions. | 📋 Planned |
+| Chapter 1099 — Mobile IP Address Management | Learn IP address allocation and lifecycle management in cellular networks. | 📋 Planned |
+| Chapter 1100 — Carrier DNS and Mobile Networks | Understand DNS infrastructure supporting mobile operators. | 📋 Planned |
+| Chapter 1101 — Mobile NAT and CGNAT at Scale | Learn carrier-grade address translation architectures. | 📋 Planned |
+| Chapter 1102 — IMS Architecture in Brief | Understand IP Multimedia Subsystem architecture. | 📋 Planned |
+| Chapter 1103 — VoLTE Networking | Learn voice delivery over LTE infrastructure. | 📋 Planned |
+| Chapter 1104 — Voice over New Radio | Understand voice communication within 5G networks. | 📋 Planned |
+| Chapter 1105 — Open RAN from First Principles | Learn the motivation and architecture behind Open RAN. | 📋 Planned |
+| Chapter 1106 — O-RAN Architecture | Understand standardized Open RAN system architecture. | 📋 Planned |
+| Chapter 1107 — Open Fronthaul | Learn standardized interfaces between radio components. | 📋 Planned |
+| Chapter 1108 — Near-Real-Time RIC | Understand intelligent near-real-time radio control. | 📋 Planned |
+| Chapter 1109 — Non-Real-Time RIC | Learn long-term optimization within Open RAN ecosystems. | 📋 Planned |
+| Chapter 1110 — xApps and rApps | Understand programmable applications within O-RAN architectures. | 📋 Planned |
+| Chapter 1111 — Cellular Fronthaul | Learn transport technologies connecting distributed radio systems. | 📋 Planned |
+| Chapter 1112 — Midhaul and Backhaul | Understand transport architectures supporting cellular infrastructure. | 📋 Planned |
+| Chapter 1113 — Mobile Transport Synchronization | Learn precise timing requirements in mobile transport networks. | 📋 Planned |
+| Chapter 1114 — Private Cellular Network Design | Understand enterprise deployment of private 5G infrastructures. | 📋 Planned |
+| Chapter 1115 — 5G Core Observability | Learn monitoring and troubleshooting techniques for cloud-native mobile cores. | 📋 Planned |
+| Chapter 1116 — Mobile Core Failure Domains | Understand resilience and fault isolation within cellular infrastructure. | 📋 Planned |
+| Chapter 1117 — Designing a Cloud-Native Mobile Core | Apply production engineering principles to design scalable 5G Core infrastructure. | 📋 Planned |
+
+---
+
+## Volume IX Glossary
+
+**Chapter 1118 — Volume IX Glossary**
+
+A consolidated reference of the terminology introduced throughout Volume IX, covering production DNS operations, DNSSEC, encrypted DNS, HTTP evolution, WebTransport, WebRTC, Wi-Fi 7, 6 GHz networking, LTE, 5G Core, Open RAN, and cloud-native mobile networking.
+
+---
+
+### Volume IX Summary
+
+Volume IX explores the technologies powering modern Internet naming systems, web communication, wireless networking, and cellular infrastructure. Readers gain an expert-level understanding of production DNS operations, encrypted name resolution, real-time web transport, Wi-Fi evolution, and cloud-native mobile networks, preparing them to design and operate Internet-scale communication systems.
+
+---
+
+## Volume X — Advanced
+
+**Learning Level:** Advanced
+
+**Theme**
+
+Satellite, Delay-Tolerant, and Space Networking Internals → Network Security Architecture, Source Validation, and Encrypted Traffic Defense
+
+**Objective**
+
+Develop an expert-level understanding of satellite communication, non-terrestrial networking, delay-tolerant architectures, space networking, and modern network security. Upon completing this volume, readers will understand how future communication systems operate across terrestrial and space environments while designing secure, resilient, and privacy-preserving network infrastructures.
+
+---
+
+## Part XXXIV — Satellite, Delay-Tolerant, and Space Networking Internals
+
+**Purpose**
+
+Develop a first-principles understanding of satellite communication, Low Earth Orbit (LEO) constellations, delay-tolerant networking, interplanetary communication, and resilient space networking while learning how future global Internet infrastructure extends beyond terrestrial networks.
+
+| Chapter | Purpose | Status |
+|---------|---------|--------|
+| Chapter 1119 — Orbital Mechanics for Network Engineers | Understand orbital concepts that influence satellite network design. | 📋 Planned |
+| Chapter 1120 — Satellite Link Budgets | Learn how communication links are engineered for satellite systems. | 📋 Planned |
+| Chapter 1121 — Free-Space Path Loss | Understand signal attenuation across long-distance wireless communication. | 📋 Planned |
+| Chapter 1122 — Doppler Effects in LEO Networks | Learn how orbital motion affects wireless communication. | 📋 Planned |
+| Chapter 1123 — Satellite Ground Stations | Understand the infrastructure connecting satellites to terrestrial networks. | 📋 Planned |
+| Chapter 1124 — Gateway Diversity | Learn how multiple gateways improve satellite network resilience. | 📋 Planned |
+| Chapter 1125 — Inter-Satellite Links | Understand direct communication between satellites. | 📋 Planned |
+| Chapter 1126 — Optical Inter-Satellite Links | Learn laser-based communication technologies used in satellite constellations. | 📋 Planned |
+| Chapter 1127 — LEO Constellation Topology Dynamics | Understand continuously changing network topologies in LEO constellations. | 📋 Planned |
+| Chapter 1128 — Satellite Handover | Learn mobility management between moving satellites. | 📋 Planned |
+| Chapter 1129 — Beam Hopping | Understand dynamic beam allocation techniques in satellite communication. | 📋 Planned |
+| Chapter 1130 — Spot Beams | Learn high-capacity directional coverage techniques. | 📋 Planned |
+| Chapter 1131 — Satellite Frequency Reuse | Understand spectrum reuse strategies in satellite systems. | 📋 Planned |
+| Chapter 1132 — Satellite Routing Under Moving Topology | Learn routing strategies for constantly changing satellite networks. | 📋 Planned |
+| Chapter 1133 — Satellite Transport Protocol Challenges | Understand transport-layer challenges across high-latency satellite links. | 📋 Planned |
+| Chapter 1134 — Performance Enhancing Proxies | Learn optimization techniques for long-delay communication paths. | 📋 Planned |
+| Chapter 1135 — Satellite Congestion Control | Understand congestion management in space communication systems. | 📋 Planned |
+| Chapter 1136 — Non-Terrestrial Network Integration with 5G | Learn how satellite systems integrate with modern mobile networks. | 📋 Planned |
+| Chapter 1137 — Direct-to-Device Satellite Networking | Understand direct satellite connectivity for consumer devices. | 📋 Planned |
+| Chapter 1138 — Delay-Tolerant Networking Architecture | Learn networking architectures designed for intermittent connectivity. | 📋 Planned |
+| Chapter 1139 — Bundles and the Bundle Protocol | Understand message-oriented communication in delay-tolerant networks. | 📋 Planned |
+| Chapter 1140 — Contact Graph Routing | Learn routing strategies for scheduled communication opportunities. | 📋 Planned |
+| Chapter 1141 — Custody and Store-Carry-Forward Concepts | Understand reliable communication across disconnected networks. | 📋 Planned |
+| Chapter 1142 — Disruption-Tolerant Security | Learn security mechanisms for intermittent communication environments. | 📋 Planned |
+| Chapter 1143 — Licklider Transmission Protocol | Understand transport protocols designed for deep-space communication. | 📋 Planned |
+| Chapter 1144 — Deep-Space Link Constraints | Learn engineering challenges of interplanetary communication. | 📋 Planned |
+| Chapter 1145 — Interplanetary Overlay Networking | Understand networking architectures extending beyond Earth. | 📋 Planned |
+| Chapter 1146 — Space Network Time and Synchronization | Learn timing and synchronization across space communication systems. | 📋 Planned |
+| Chapter 1147 — Observability Across Intermittent Links | Understand monitoring techniques for disconnected environments. | 📋 Planned |
+| Chapter 1148 — Designing a Resilient LEO Network | Apply engineering principles to design a fault-tolerant satellite constellation. | 📋 Planned |
+
+---
+
+## Part XXXV — Network Security Architecture, Source Validation, and Encrypted Traffic Defense
+
+**Purpose**
+
+Develop an expert-level understanding of modern network security architecture by exploring trust boundaries, source validation, control-plane protection, encrypted traffic visibility, Zero Trust networking, DDoS defense, and Internet-scale security engineering while learning how to design resilient and secure communication infrastructures for the encrypted Internet.
+
+| Chapter | Purpose | Status |
+|---------|---------|--------|
+| Chapter 1149 — Network Security Architecture vs Security Products | Understand security as an architectural discipline rather than a collection of products. | 📋 Planned |
+| Chapter 1150 — Network Trust Boundaries | Learn how trust relationships are established and enforced across networks. | 📋 Planned |
+| Chapter 1151 — Network Attack Graphs | Understand attack path modeling and security analysis. | 📋 Planned |
+| Chapter 1152 — East-West vs North-South Security | Learn security strategies for internal and perimeter network traffic. | 📋 Planned |
+| Chapter 1153 — Source Address Spoofing | Understand spoofing attacks and their impact on Internet security. | 📋 Planned |
+| Chapter 1154 — Ingress Filtering | Learn packet filtering techniques that prevent spoofed traffic. | 📋 Planned |
+| Chapter 1155 — BCP 38 | Understand operational best practices for source address validation. | 📋 Planned |
+| Chapter 1156 — Unicast Reverse Path Forwarding | Learn route-based source validation techniques. | 📋 Planned |
+| Chapter 1157 — Source Address Validation Improvement Architecture | Understand modern architectures for preventing source spoofing. | 📋 Planned |
+| Chapter 1158 — Control-Plane Policing | Learn techniques for protecting network control planes from attacks. | 📋 Planned |
+| Chapter 1159 — Management-Plane Protection | Understand secure access to network management infrastructure. | 📋 Planned |
+| Chapter 1160 — Routing Protocol Authentication | Learn authentication mechanisms protecting routing protocols. | 📋 Planned |
+| Chapter 1161 — Layer 2 Control-Plane Protection | Understand security mechanisms protecting Layer 2 infrastructure. | 📋 Planned |
+| Chapter 1162 — DHCP Snooping | Learn trusted DHCP enforcement within switched networks. | 📋 Planned |
+| Chapter 1163 — Dynamic ARP Inspection | Understand defenses against ARP spoofing attacks. | 📋 Planned |
+| Chapter 1164 — IP Source Guard | Learn host validation using Layer 2 security mechanisms. | 📋 Planned |
+| Chapter 1165 — IPv6 Router Advertisement Guard | Understand protection against malicious IPv6 router advertisements. | 📋 Planned |
+| Chapter 1166 — IPv6 Neighbor Discovery Threats | Learn security risks within IPv6 neighbor discovery. | 📋 Planned |
+| Chapter 1167 — SYN Cookies | Understand mitigation techniques for SYN flood attacks. | 📋 Planned |
+| Chapter 1168 — TCP Authentication Option | Learn cryptographic authentication for TCP sessions. | 📋 Planned |
+| Chapter 1169 — TLS Inspection Trade-offs | Understand operational and privacy considerations of encrypted traffic inspection. | 📋 Planned |
+| Chapter 1170 — Encrypted Traffic Analysis | Learn behavioral analysis techniques for encrypted communication. | 📋 Planned |
+| Chapter 1171 — JA3-Style Fingerprinting Concepts and Limitations | Understand TLS fingerprinting and its practical limitations. | 📋 Planned |
+| Chapter 1172 — Network Detection Under QUIC | Learn security monitoring techniques for QUIC-based communication. | 📋 Planned |
+| Chapter 1173 — Network Detection Under Encrypted Client Hello | Understand visibility challenges introduced by ECH. | 📋 Planned |
+| Chapter 1174 — DNS Security Analytics Under Encrypted DNS | Learn security monitoring strategies for encrypted DNS traffic. | 📋 Planned |
+| Chapter 1175 — Certificate-Based Network Identity | Understand certificate-driven identity across modern networks. | 📋 Planned |
+| Chapter 1176 — Workload Identity and the Network | Learn identity-based security for cloud-native workloads. | 📋 Planned |
+| Chapter 1177 — Secure Access Service Edge in Brief | Understand cloud-delivered network security architectures. | 📋 Planned |
+| Chapter 1178 — Security Service Edge in Brief | Learn security services delivered through distributed cloud platforms. | 📋 Planned |
+| Chapter 1179 — ZTNA Network Architecture | Understand Zero Trust Network Access architectures. | 📋 Planned |
+| Chapter 1180 — Network Segmentation Validation | Learn techniques for verifying network isolation policies. | 📋 Planned |
+| Chapter 1181 — Attack Path Reduction | Understand strategies for minimizing attacker movement. | 📋 Planned |
+| Chapter 1182 — Network Deception Architecture | Learn deception-based defensive techniques for enterprise networks. | 📋 Planned |
+| Chapter 1183 — DDoS Scrubbing Centers | Understand large-scale DDoS traffic mitigation infrastructures. | 📋 Planned |
+| Chapter 1184 — Anycast DDoS Mitigation | Learn global traffic distribution for DDoS resilience. | 📋 Planned |
+| Chapter 1185 — FlowSpec for DDoS Response | Understand automated traffic filtering using BGP FlowSpec. | 📋 Planned |
+| Chapter 1186 — Remote Triggered Black Hole Routing | Learn emergency routing techniques for DDoS mitigation. | 📋 Planned |
+| Chapter 1187 — Network Security Policy Testing | Understand systematic validation of security policies. | 📋 Planned |
+| Chapter 1188 — Continuous Network Exposure Validation | Learn continuous assessment of network attack surfaces. | 📋 Planned |
+| Chapter 1189 — Designing Defense for an Encrypted Internet | Apply modern security architecture principles to design resilient networks for an increasingly encrypted Internet. | 📋 Planned |
+
+---
+
+## Volume X Glossary
+
+**Chapter 1190 — Volume X Glossary**
+
+A consolidated reference of the terminology introduced throughout Volume X, covering satellite networking, LEO constellations, delay-tolerant networking, interplanetary communication, network security architecture, source validation, Zero Trust networking, encrypted traffic analysis, and modern Internet defense mechanisms.
+
+---
+
+### Volume X Summary
+
+Volume X explores the future of networking beyond terrestrial infrastructure while simultaneously addressing the security challenges of an increasingly encrypted Internet. Readers gain an expert-level understanding of satellite communication, delay-tolerant networking, space networking, modern network security architectures, source validation, encrypted traffic defense, Zero Trust principles, and large-scale Internet resilience.
+
+---
+
+## Continue Reading
+
+➡ **Next File:** `part-4.md`
