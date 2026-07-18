@@ -59,8 +59,8 @@ It currently includes
 - Curriculum and volume structure
 - Chapter overviews
 - Project progress
-- Licensing documentation (`./LICENSING.md`)
-- Pricing documentation (`./PRICING.md`) *(Coming Soon)*
+- Licensing documentation (`[./LICENSING.md](./LICENSING.md)`)
+- Pricing documentation (`[./PRICING.md](./PRICING.md)`) *(Coming Soon)*
 
 - Release updates
 
@@ -88,14 +88,14 @@ This repository separates **licensing** from the traditional software **LICENSE*
 
 A typical `LICENSE` file is designed for software projects and usually contains a single open-source license (such as MIT, Apache-2.0, or GPL). That approach is not suitable for the Engineering Handbook Series because the project contains published books, digital publications, institutional licensing, commercial licensing, pricing policies, edition rules, and future publishing operations.
 
-Instead, the project uses a dedicated **`LICENSING.md`** document. It serves as the complete publishing and licensing manual, defining copyright ownership, licensing philosophy, license types, institutional and enterprise licensing, digital rights, anti-piracy policies, enforcement principles, and other publishing policies that cannot reasonably fit inside a conventional `LICENSE` file.
+Instead, the project uses a dedicated **`[LICENSING.md](./LICENSING.md)`** document. It serves as the complete publishing and licensing manual, defining copyright ownership, licensing philosophy, license types, institutional and enterprise licensing, digital rights, anti-piracy policies, enforcement principles, and other publishing policies that cannot reasonably fit inside a conventional `LICENSE` file.
 
 ### Repository Documents
 
 | Document | Purpose |
 |----------|---------|
-| `./LICENSING.md` | Complete publishing, copyright and licensing manual for the Engineering Handbook Series. |
-| `./PRICING.md` | Pricing philosophy, pricing models and commercial policies. **Coming Soon** |
+| `[./LICENSING.md](./LICENSING.md)` | Complete publishing, copyright and licensing manual for the Engineering Handbook Series. |
+| `[./PRICING.md](./PRICING.md)` | Pricing philosophy, pricing models and commercial policies. **Coming Soon** |
 
 ## Available Handbooks
 
