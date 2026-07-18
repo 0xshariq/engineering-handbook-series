@@ -117,7 +117,7 @@ Additional handbook pages will be added over time.
 ## Repository Layout
 
 ```text
-handbooks/
+handbooks-curriculum/
 ├── database-engineering-handbook/
 ├── operating-systems-engineering-handbook/
 ├── linux-engineering-handbook/
