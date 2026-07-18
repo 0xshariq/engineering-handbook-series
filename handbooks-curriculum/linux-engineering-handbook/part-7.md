@@ -214,7 +214,7 @@ Volume XXII concludes the Linux Engineering Handbook by focusing on Linux reliab
 
 ---
 
-# Linux Engineering Handbook Curriculum Complete
+## Linux Engineering Handbook Curriculum Complete
 
 With the completion of **Volume XXII**, the **Linux Engineering Handbook** curriculum reaches its conclusion.
 
