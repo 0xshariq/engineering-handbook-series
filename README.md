@@ -68,7 +68,6 @@ Additional resources will be published as development progresses.
 
 ---
 
----
 
 ## Documentation
 
