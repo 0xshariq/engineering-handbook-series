@@ -359,3 +359,114 @@ Volume VIII explores the cutting edge of Internet evolution by examining advance
 
 ---
 
+## Volume IX — Advanced
+
+**Learning Level:** Advanced
+
+**Theme**
+
+DNS Operations, Encrypted DNS, and Naming System Engineering → Cellular Core Protocols, Open RAN, and Mobile Transport
+
+**Objective**
+
+Develop an expert-level understanding of production DNS infrastructure, encrypted name resolution, modern web transport, Wi-Fi evolution, and cellular networking. Upon completing this volume, readers will understand how Internet-scale naming systems, wireless technologies, and mobile core networks are engineered, secured, and operated in production environments.
+
+---
+
+## Part XXX — DNS Operations, Encrypted DNS, and Naming System Engineering
+
+**Purpose**
+
+Develop a first-principles understanding of production DNS engineering by exploring authoritative and recursive DNS operations, DNSSEC, encrypted DNS, privacy mechanisms, operational resilience, and Internet-scale naming architectures while learning how modern DNS infrastructure powers the global Internet.
+
+| Chapter | Purpose | Status |
+|---------|---------|--------|
+| Chapter 971 — DNS Zone Files in Depth | Understand the structure and management of DNS zone files. | 📋 Planned |
+| Chapter 972 — SOA Semantics | Learn the role of the Start of Authority record in DNS operations. | 📋 Planned |
+| Chapter 973 — DNS Serial Number Arithmetic | Understand how serial numbers coordinate DNS zone synchronization. | 📋 Planned |
+| Chapter 974 — Zone Transfers | Learn how DNS zones are replicated between authoritative servers. | 📋 Planned |
+| Chapter 975 — AXFR | Understand full zone transfer mechanisms. | 📋 Planned |
+| Chapter 976 — IXFR | Learn incremental zone synchronization for efficient replication. | 📋 Planned |
+| Chapter 977 — NOTIFY | Understand how DNS servers announce zone changes. | 📋 Planned |
+| Chapter 978 — Dynamic DNS Updates | Learn secure dynamic modification of DNS records. | 📋 Planned |
+| Chapter 979 — DNS Views and Split Horizon | Understand view-based DNS responses for different clients. | 📋 Planned |
+| Chapter 980 — DNS Response Policy Zones | Learn policy-based DNS filtering and response modification. | 📋 Planned |
+| Chapter 981 — DNS Cookies | Understand lightweight protection against DNS spoofing attacks. | 📋 Planned |
+| Chapter 982 — DNS Case Randomization | Learn entropy-based defenses for DNS transactions. | 📋 Planned |
+| Chapter 983 — DNS QNAME Minimization | Understand privacy improvements for recursive DNS queries. | 📋 Planned |
+| Chapter 984 — Aggressive Negative Caching | Learn efficient caching of negative DNS responses. | 📋 Planned |
+| Chapter 985 — DNSSEC Chain of Trust | Understand cryptographic trust throughout the DNS hierarchy. | 📋 Planned |
+| Chapter 986 — DNSSEC Key Roles | Learn the responsibilities of cryptographic DNSSEC keys. | 📋 Planned |
+| Chapter 987 — ZSK and KSK Operations | Understand operational management of DNSSEC signing keys. | 📋 Planned |
+| Chapter 988 — DNSSEC Signing and Rollover | Learn secure DNS zone signing and key rollover procedures. | 📋 Planned |
+| Chapter 989 — Negative Answers in DNSSEC | Understand authenticated denial of existence. | 📋 Planned |
+| Chapter 990 — NSEC | Learn authenticated denial using NSEC records. | 📋 Planned |
+| Chapter 991 — NSEC3 | Understand hashed authenticated denial techniques. | 📋 Planned |
+| Chapter 992 — DNSSEC Validation Failure Modes | Learn common operational DNSSEC failures and troubleshooting strategies. | 📋 Planned |
+| Chapter 993 — DNSSEC Operational Incidents | Understand real-world DNSSEC deployment challenges. | 📋 Planned |
+| Chapter 994 — EDNS | Learn protocol extensions supporting modern DNS capabilities. | 📋 Planned |
+| Chapter 995 — EDNS Client Subnet | Understand location-aware recursive DNS optimization. | 📋 Planned |
+| Chapter 996 — DNS Message Size and Fragmentation | Learn transport considerations affecting DNS reliability. | 📋 Planned |
+| Chapter 997 — DNS over QUIC | Understand encrypted DNS transport using QUIC. | 📋 Planned |
+| Chapter 998 — Oblivious DoH | Learn privacy-preserving DNS resolution architectures. | 📋 Planned |
+| Chapter 999 — Discovery of Designated Resolvers | Understand automatic encrypted resolver discovery. | 📋 Planned |
+| Chapter 1000 — DDR and Encrypted Resolver Discovery | Learn standardized discovery mechanisms for encrypted DNS. | 📋 Planned |
+| Chapter 1001 — Resolver Privacy Trade-offs | Understand operational trade-offs between privacy and performance. | 📋 Planned |
+| Chapter 1002 — Authoritative DNS Anycast Engineering | Learn global-scale deployment of authoritative DNS infrastructure. | 📋 Planned |
+| Chapter 1003 — Recursive Resolver Capacity Planning | Understand large-scale recursive resolver design. | 📋 Planned |
+| Chapter 1004 — DNS DDoS Defense | Learn defensive architectures protecting DNS infrastructure. | 📋 Planned |
+| Chapter 1005 — DNS Catalog Zones | Understand centralized DNS zone management. | 📋 Planned |
+| Chapter 1006 — Alternative Naming Systems in Brief | Explore emerging alternatives to traditional DNS. | 📋 Planned |
+| Chapter 1007 — Designing a Production DNS Platform | Apply production engineering principles to build a highly available DNS platform. | 📋 Planned |
+
+---
+
+## Part XXXI — Modern Web Transport, Real-Time Media, and Internet Messaging
+
+**Purpose**
+
+Develop a first-principles understanding of modern web communication by exploring advanced HTTP capabilities, WebTransport, WebRTC, media delivery, interactive communication, and messaging architectures that power today's Internet-scale applications.
+
+| Chapter | Purpose | Status |
+|---------|---------|--------|
+| Chapter 1008 — HTTP Priority | Understand request prioritization within modern HTTP. | 📋 Planned |
+| Chapter 1009 — Extensible HTTP Priorities | Learn flexible priority signaling for HTTP traffic. | 📋 Planned |
+| Chapter 1010 — HTTP Early Hints | Understand latency reduction using HTTP 103 responses. | 📋 Planned |
+| Chapter 1011 — HTTP Range Requests | Learn efficient partial resource retrieval. | 📋 Planned |
+| Chapter 1012 — HTTP Conditional Requests | Understand cache validation and conditional resource delivery. | 📋 Planned |
+| Chapter 1013 — HTTP Content Negotiation | Learn adaptive content delivery based on client capabilities. | 📋 Planned |
+| Chapter 1014 — HTTP Authentication Framework | Understand authentication mechanisms used by HTTP. | 📋 Planned |
+| Chapter 1015 — HTTP Message Signatures in Brief | Learn cryptographic integrity for HTTP messages. | 📋 Planned |
+| Chapter 1016 — Structured Fields for HTTP | Understand standardized structured metadata within HTTP. | 📋 Planned |
+| Chapter 1017 — HTTP Cache Partitioning Concepts | Learn privacy-enhancing cache isolation techniques. | 📋 Planned |
+| Chapter 1018 — HTTP Connection Coalescing | Understand efficient connection reuse across origins. | 📋 Planned |
+| Chapter 1019 — HTTP Alternative Services | Learn how services advertise alternative endpoints. | 📋 Planned |
+| Chapter 1020 — Alt-Svc | Understand HTTP Alternative Service advertisements. | 📋 Planned |
+| Chapter 1021 — HTTP Origin Coalescing Risks | Learn security considerations surrounding origin coalescing. | 📋 Planned |
+| Chapter 1022 — WebSocket Framing in Depth | Understand the internal framing architecture of WebSocket. | 📋 Planned |
+| Chapter 1023 — WebSocket Backpressure | Learn flow-control mechanisms for WebSocket communication. | 📋 Planned |
+| Chapter 1024 — WebTransport Sessions | Understand session establishment using WebTransport. | 📋 Planned |
+| Chapter 1025 — WebTransport Datagrams | Learn unreliable transport capabilities in WebTransport. | 📋 Planned |
+| Chapter 1026 — WebTransport Streams | Understand reliable stream transport using WebTransport. | 📋 Planned |
+| Chapter 1027 — Server-Sent Events Reconnection Semantics | Learn resilient event streaming using SSE. | 📋 Planned |
+| Chapter 1028 — WebRTC Signaling Architecture | Understand signaling mechanisms for peer-to-peer communication. | 📋 Planned |
+| Chapter 1029 — SDP | Learn Session Description Protocol fundamentals. | 📋 Planned |
+| Chapter 1030 — ICE Candidate Gathering | Understand endpoint discovery for NAT traversal. | 📋 Planned |
+| Chapter 1031 — ICE Connectivity Checks | Learn connection establishment across NAT devices. | 📋 Planned |
+| Chapter 1032 — Trickle ICE | Understand incremental ICE candidate exchange. | 📋 Planned |
+| Chapter 1033 — TURN Allocation Lifecycle | Learn relay allocation for NAT traversal. | 📋 Planned |
+| Chapter 1034 — RTP Packetization | Understand packetization of real-time media streams. | 📋 Planned |
+| Chapter 1035 — RTCP Feedback | Learn media quality reporting mechanisms. | 📋 Planned |
+| Chapter 1036 — SRTP | Understand secure transport for real-time media. | 📋 Planned |
+| Chapter 1037 — Jitter Buffers for Real-Time Media | Learn latency smoothing techniques for interactive communication. | 📋 Planned |
+| Chapter 1038 — Congestion Control for Interactive Media | Understand adaptive media transmission under network congestion. | 📋 Planned |
+| Chapter 1039 — Selective Forwarding Units | Learn scalable media forwarding architectures. | 📋 Planned |
+| Chapter 1040 — Multipoint Control Units | Understand centralized conferencing architectures. | 📋 Planned |
+| Chapter 1041 — Simulcast | Learn simultaneous multi-quality media transmission. | 📋 Planned |
+| Chapter 1042 — Scalable Video Coding in Networks | Understand layered video encoding for adaptive streaming. | 📋 Planned |
+| Chapter 1043 — Media over QUIC vs WebRTC | Compare two modern real-time media architectures. | 📋 Planned |
+| Chapter 1044 — Messaging Delivery Semantics over Networks | Learn reliable message delivery models. | 📋 Planned |
+| Chapter 1045 — Store-and-Forward Messaging | Understand asynchronous messaging architectures. | 📋 Planned |
+| Chapter 1046 — Push Notification Network Architecture | Learn how global push notification systems operate. | 📋 Planned |
+| Chapter 1047 — Designing a Global Real-Time Messaging Transport | Apply production engineering principles to build a scalable messaging platform. | 📋 Planned |
+
