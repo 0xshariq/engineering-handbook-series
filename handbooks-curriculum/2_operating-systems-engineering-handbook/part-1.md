@@ -4,6 +4,16 @@
 
 ---
 
+## Overview
+
+The **Operating Systems Engineering Handbook** is a comprehensive engineering reference designed to teach operating systems from first principles through modern production systems.
+
+Rather than focusing on a single operating system, this handbook explains the universal concepts, mechanisms and engineering decisions that underpin all modern operating systems. Readers progressively build an understanding of how operating systems evolved, how kernels interact with hardware, how processes and memory are managed, how filesystems and networking operate, and how contemporary systems implement virtualization, security and large-scale infrastructure.
+
+The curriculum follows a level-based progression, beginning with fundamental concepts and gradually advancing toward expert-level operating system engineering, implementation and research topics.
+
+---
+
 ## Handbook Information
 
 | Field | Value |
@@ -17,17 +27,8 @@
 | **Level** | Foundation → Expert |
 | **Volumes** | 16 |
 | **Total Chapters** | ~1900 |
+| **Sequel Of** | - |
 | **Author** | Sharique Chaudhary |
-
----
-
-## Overview
-
-The **Operating Systems Engineering Handbook** is a comprehensive engineering reference designed to teach operating systems from first principles through modern production systems.
-
-Rather than focusing on a single operating system, this handbook explains the universal concepts, mechanisms and engineering decisions that underpin all modern operating systems. Readers progressively build an understanding of how operating systems evolved, how kernels interact with hardware, how processes and memory are managed, how filesystems and networking operate, and how contemporary systems implement virtualization, security and large-scale infrastructure.
-
-The curriculum follows a level-based progression, beginning with fundamental concepts and gradually advancing toward expert-level operating system engineering, implementation and research topics.
 
 ---
 
@@ -308,7 +309,6 @@ Understand how applications safely transition into the kernel, how system calls 
 | Chapter 186 — Microkernel IPC as a System Interface | Understand IPC as the fundamental interface in microkernels. | 📋 Planned |
 | Chapter 187 — Designing a System Call | Learn engineering principles for designing kernel interfaces. | 📋 Planned |
 | Chapter 188 — Volume I Glossary | Review the important terminology introduced throughout Volume I. | 📋 Planned |
-
 
 ---
 
