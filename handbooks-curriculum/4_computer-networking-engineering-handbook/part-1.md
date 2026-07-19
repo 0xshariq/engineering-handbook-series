@@ -1,5 +1,82 @@
 # Computer Networks Engineering Handbook
 
+> **Engineering Handbook Series**
+
+---
+
+## Overview
+
+The **Computer Networks Engineering Handbook** is a comprehensive engineering reference designed to teach computer networking from first principles through modern Internet-scale and production networking systems.
+
+Rather than focusing on configuring individual networking devices or memorizing protocols, this handbook explains the universal engineering principles, architectures and design decisions that power modern computer networks. Readers progressively build an understanding of how data travels across local and global networks, how Internet protocols evolved, how routing and transport systems operate, how cloud and data center networks are engineered, and how modern networking embraces programmability, observability, security, AI infrastructure and emerging Internet technologies.
+
+The curriculum follows a level-based progression, beginning with networking fundamentals and gradually advancing toward expert-level network engineering, protocol implementation, large-scale infrastructure, and modern networking research.
+
+---
+
+## Handbook Information
+
+| Field | Value |
+|--------|-------|
+| **Title** | Computer Networks Engineering Handbook |
+| **Subtitle** | A Complete Guide to Computer Networking, Internet Architecture, Ethernet, TCP/IP, Routing, Wireless Networks, Cloud Networking, Network Programming, Network Security, High-Performance Networking and Building Modern Network Systems |
+| **Edition** | First Edition |
+| **Status** | 🚧 In Development |
+| **Series** | Engineering Handbook Series |
+| **Discipline** | Computer Science / Network Engineering |
+| **Level** | Foundation → Expert |
+| **Volumes** | 16 |
+| **Total Chapters** | ~1530 |
+| **Sequel Of** | - |
+| **Author** | Sharique Chaudhary |
+
+---
+
+## What You Will Learn
+
+After completing this handbook, readers will be able to:
+
+- Understand how modern computer networks operate from physical links to global Internet infrastructure.
+- Explain Ethernet, switching, IP addressing, routing and transport protocols from first principles.
+- Understand TCP, UDP, QUIC and modern Internet protocol evolution.
+- Design reliable enterprise, cloud and data center networks.
+- Understand wireless, cellular and satellite networking architectures.
+- Learn network security, defensive engineering and secure network design.
+- Master cloud-native networking, SDN, programmable networking and high-performance packet processing.
+- Understand network observability, troubleshooting and production operations.
+- Build network applications, protocol implementations and networking systems from scratch.
+- Study modern AI, HPC and large-scale infrastructure networking.
+- Analyze real-world network architectures and engineering case studies.
+- Develop the intuition required to study RFCs, production network stacks and modern networking source code.
+
+---
+
+## Intended Audience
+
+This handbook is designed for:
+
+- Computer Science students
+- Network Engineering learners
+- Network Engineers
+- Backend Engineers
+- Systems Programmers
+- Cloud Engineers
+- DevOps Engineers
+- Site Reliability Engineers
+- Security Engineers
+- Infrastructure Engineers
+- AI Infrastructure Engineers
+- Researchers
+- Anyone interested in understanding how modern computer networks work internally.
+
+---
+
+## Handbook Structure
+
+The handbook is organized into **16 progressive volumes**, with each volume representing a distinct stage in the computer networking learning journey. Every volume functions as a self-contained mini-book while contributing to the complete curriculum.
+
+---
+
 ## Volume I — Foundation
 
 **Learning Level:** Foundation
