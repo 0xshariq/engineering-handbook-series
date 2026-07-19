@@ -190,7 +190,7 @@ Study how production database systems implement engineering concepts.
 | Chapter 27 — MongoDB Internals | Study document-oriented database architecture. | ✅ Done |
 | Chapter 28 — Redis Internals | Explore high-performance in-memory databases. | ✅ Done |
 | Chapter 29 — Cassandra Internals | Understand distributed wide-column databases. | ✅ Done |
-| Chapter 30 — Neo4j & Graph Databases | Learn graph-based data modeling. | 🚧 Pending |
+| Chapter 30 — Neo4j & Graph Databases | Learn graph-based data modeling. | ✅ Done |
 | Chapter 31 — SQL vs NoSQL | Build a decision framework for database selection. | 🚧 Pending |
 
 ---
