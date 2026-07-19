@@ -23,7 +23,6 @@ Rather than focusing on short-term technologies, the series emphasizes timeless 
 The long-term objective is to build a complete engineering library where every handbook can be studied independently while contributing to a unified learning ecosystem.
 
 ---
----
 
 ## Educational Philosophy
 
@@ -81,6 +80,8 @@ Each handbook is intentionally divided into multiple volumes instead of being pu
 This approach allows topics to remain focused, easier to maintain, simpler to update in future editions and significantly easier for readers to learn progressively.
 
 Each volume has a clearly defined scope while remaining part of a larger learning roadmap.
+
+Volumes are divided into levels : foundation,intermediate,advanced, professional and research/expert/specialist, this help us determine the pricing.
 
 ---
 
