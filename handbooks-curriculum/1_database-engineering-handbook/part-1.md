@@ -215,25 +215,4 @@ Apply engineering concepts to modern architectures, operations and implementatio
 
 ---
 
-## Related Handbooks
-
-- Operating Systems Handbook *(Planned)*
-- Linux Engineering Handbook *(Planned)*
-- Networking Handbook *(Planned)*
-- Distributed Systems Handbook *(Planned)*
-
----
-
-## Future Editions
-
-Future editions will expand existing topics, refine explanations, improve diagrams and incorporate advances in database engineering while preserving the handbook's educational philosophy.
-
----
-
-## License
-
-Licensing information will be published alongside the official handbook release.
-
----
-
 *Last Updated: July 2026*
