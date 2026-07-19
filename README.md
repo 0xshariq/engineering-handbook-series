@@ -14,6 +14,17 @@ The goal is to build a collection of reference-quality engineering literature th
 
 ---
 
+## Vision
+
+The **Engineering Handbook Series** aims to become a comprehensive collection of reference-quality engineering handbooks covering the major disciplines of computer science, software engineering, artificial intelligence, systems programming, cloud computing, networking, databases and related technical fields.
+
+Rather than focusing on short-term technologies, the series emphasizes timeless engineering knowledge that remains valuable across multiple generations of tools, languages and frameworks.
+
+The long-term objective is to build a complete engineering library where every handbook can be studied independently while contributing to a unified learning ecosystem.
+
+---
+---
+
 ## Educational Philosophy
 
 The Engineering Handbook Series is built upon several core principles.
@@ -26,89 +37,6 @@ The Engineering Handbook Series is built upon several core principles.
 - Prefer timeless engineering principles over rapidly changing technologies.
 - Bridge academic theory with production engineering.
   
----
-
-## Free Volume Policy
-
-The Engineering Handbook Series follows a **Free First Volume** philosophy.
-
-The **first volume of every handbook** will be made available **free of charge** to everyone.
-
-The purpose of this policy is to allow readers to experience the writing style, educational philosophy, technical depth, and overall quality of a handbook before deciding whether to purchase subsequent volumes.
-
-The free first volume is intended to:
-
-- Reduce the barrier to learning.
-- Help readers evaluate whether a handbook matches their learning goals.
-- Demonstrate the quality and engineering approach of the series.
-- Support students and self-learners with accessible educational resources.
-
-Unless explicitly stated otherwise, **only Volume 1** of a handbook is provided free of charge. All subsequent volumes remain subject to their respective licensing and pricing policies.
-
-The availability of free volumes does not modify the copyright, licensing terms, or intellectual property rights described in `./LICENSING.md`.
-
----
-
-## Repository Contents
-
-This repository serves as the public home of the Engineering Handbook Series.
-
-It currently includes
-
-- Handbook information
-- Curriculum and volume structure
-- Chapter overviews
-- Project progress
-- Licensing documentation (`[./LICENSING.md](./LICENSING.md)`)
-- Pricing documentation (`[./PRICING.md](./PRICING.md)`) *(Coming Soon)*
-
-- Release updates
-
-Additional resources will be published as development progresses.
-
----
-
-## Development Status
-
-The Engineering Handbook Series is developed incrementally. Each handbook curriculum includes a **Status** column to indicate the current development progress of every chapter.
-
-| Status | Meaning |
-|--------|---------|
-| ✅ **Done** | The chapter has been completed and is part of the current handbook manuscript. |
-| 🚧 **Pending** | The handbook is currently under active development, but this chapter has not yet been generated. |
-| 📋 **Planned** | Development of the handbook has not yet started. |
-
-As handbook development progresses, chapter statuses will be updated to reflect the latest progress.
-
----
-
-## Documentation
-
-This repository separates **licensing** from the traditional software **LICENSE** file intentionally.
-
-A typical `LICENSE` file is designed for software projects and usually contains a single open-source license (such as MIT, Apache-2.0, or GPL). That approach is not suitable for the Engineering Handbook Series because the project contains published books, digital publications, institutional licensing, commercial licensing, pricing policies, edition rules, and future publishing operations.
-
-Instead, the project uses a dedicated **`[LICENSING.md](./LICENSING.md)`** document. It serves as the complete publishing and licensing manual, defining copyright ownership, licensing philosophy, license types, institutional and enterprise licensing, digital rights, anti-piracy policies, enforcement principles, and other publishing policies that cannot reasonably fit inside a conventional `LICENSE` file.
-
-### Repository Documents
-
-| Document | Purpose |
-|----------|---------|
-| `[./LICENSING.md](./LICENSING.md)` | Complete publishing, copyright and licensing manual for the Engineering Handbook Series. |
-| `[./PRICING.md](./PRICING.md)` | Pricing philosophy, pricing models and commercial policies. **Coming Soon** |
-
----
-
-# INSERT THE FOLLOWING NEW SECTIONS HERE
-
-## Vision
-
-The **Engineering Handbook Series** aims to become a comprehensive collection of reference-quality engineering handbooks covering the major disciplines of computer science, software engineering, artificial intelligence, systems programming, cloud computing, networking, databases and related technical fields.
-
-Rather than focusing on short-term technologies, the series emphasizes timeless engineering knowledge that remains valuable across multiple generations of tools, languages and frameworks.
-
-The long-term objective is to build a complete engineering library where every handbook can be studied independently while contributing to a unified learning ecosystem.
-
 ---
 
 ## Intended Audience
@@ -227,20 +155,98 @@ Each chapter is reviewed for:
 
 ---
 
-## Available Handbooks
+## Free Volume Policy
 
-The `handbooks/` directory contains information about every handbook within the Engineering Handbook Series.
+The Engineering Handbook Series follows a **Free First Volume** philosophy.
+
+The **first volume of every handbook** will be made available **free of charge** to everyone.
+
+The purpose of this policy is to allow readers to experience the writing style, educational philosophy, technical depth, and overall quality of a handbook before deciding whether to purchase subsequent volumes.
+
+The free first volume is intended to:
+
+- Reduce the barrier to learning.
+- Help readers evaluate whether a handbook matches their learning goals.
+- Demonstrate the quality and engineering approach of the series.
+- Support students and self-learners with accessible educational resources.
+
+Unless explicitly stated otherwise, **only Volume 1** of a handbook is provided free of charge. All subsequent volumes remain subject to their respective licensing and pricing policies.
+
+The availability of free volumes does not modify the copyright, licensing terms, or intellectual property rights described in `./LICENSING.md`.
+
+---
+
+## Repository Contents
+
+This repository serves as the public home of the Engineering Handbook Series.
+
+It currently includes
+
+- Handbook information
+- Curriculum and volume structure
+- Chapter overviews
+- Project progress
+- Licensing documentation (`[./LICENSING.md](./LICENSING.md)`)
+- Pricing documentation (`[./PRICING.md](./PRICING.md)`) *(Coming Soon)*
+
+- Release updates
+
+Additional resources will be published as development progresses.
+
+---
+
+## Development Status
+
+The Engineering Handbook Series is developed incrementally. Each handbook curriculum includes a **Status** column to indicate the current development progress of every chapter.
+
+| Status | Meaning |
+|--------|---------|
+| ✅ **Done** | The chapter has been completed and is part of the current handbook manuscript. |
+| 🚧 **Pending** | The handbook is currently under active development, but this chapter has not yet been generated. |
+| 📋 **Planned** | Development of the handbook has not yet started. |
+
+As handbook development progresses, chapter statuses will be updated to reflect the latest progress.
+
+---
+
+## Documentation
+
+This repository separates **licensing** from the traditional software **LICENSE** file intentionally.
+
+A typical `LICENSE` file is designed for software projects and usually contains a single open-source license (such as MIT, Apache-2.0, or GPL). That approach is not suitable for the Engineering Handbook Series because the project contains published books, digital publications, institutional licensing, commercial licensing, pricing policies, edition rules, and future publishing operations.
+
+Instead, the project uses a dedicated **`[LICENSING.md](./LICENSING.md)`** document. It serves as the complete publishing and licensing manual, defining copyright ownership, licensing philosophy, license types, institutional and enterprise licensing, digital rights, anti-piracy policies, enforcement principles, and other publishing policies that cannot reasonably fit inside a conventional `LICENSE` file.
+
+### Repository Documents
+
+| Document | Purpose |
+|----------|---------|
+| `[./LICENSING.md](./LICENSING.md)` | Complete publishing, copyright and licensing manual for the Engineering Handbook Series. |
+| `[./PRICING.md](./PRICING.md)` | Pricing philosophy, pricing models and commercial policies. **Coming Soon** |
+
+---
+
+### Available Handbooks
+
+The **Available Handbooks** section should list every handbook currently planned within the Engineering Handbook Series so that it matches the repository layout.
+
+Example additions include:
 
 | Handbook | Status |
 |----------|--------|
-| Database Engineering Handbook | 🚧 In Progress |
-| Operating Systems Handbook | 📋 Planned |
-| Linux Engineering Handbook | 📋 Planned |
-| Networking Handbook | 📋 Planned |
-| Compiler Engineering Handbook | 📋 Planned |
-| Artificial Intelligence Handbook | 📋 Planned |
-
-Additional handbook pages will be added over time.
+| Backend Engineering Handbook | 📋 Planned |
+| Frontend Engineering Handbook | 📋 Planned |
+| Computer Architecture Handbook | 📋 Planned |
+| Computer Hardware Handbook | 📋 Planned |
+| Distributed Systems Handbook | 📋 Planned |
+| DevOps Engineering Handbook | 📋 Planned |
+| Cloud Computing Handbook | 📋 Planned |
+| Blockchain Engineering Handbook | 📋 Planned |
+| Security Engineering Handbook | 📋 Planned |
+| Programming Languages Handbook | 📋 Planned |
+| Data Engineering Handbook | 📋 Planned |
+| Testing and Debugging Engineering Handbook | 📋 Planned |
+| Software Architecture Handbook | 📋 Planned |
 
 ---
 
@@ -357,35 +363,3 @@ Internal publishing specifications, editorial standards, diagram standards, temp
 ---
 
 > Engineering is not about memorizing technologies. It is about understanding the principles that make those technologies possible.
-
----
-
-## Additional Recommended Improvements
-
-The following refinements should be applied after merging Parts 1 and 2.
-
----
-
-### Available Handbooks
-
-The **Available Handbooks** section should list every handbook currently planned within the Engineering Handbook Series so that it matches the repository layout.
-
-Example additions include:
-
-| Handbook | Status |
-|----------|--------|
-| Backend Engineering Handbook | 📋 Planned |
-| Frontend Engineering Handbook | 📋 Planned |
-| Computer Architecture Handbook | 📋 Planned |
-| Computer Hardware Handbook | 📋 Planned |
-| Distributed Systems Handbook | 📋 Planned |
-| DevOps Engineering Handbook | 📋 Planned |
-| Cloud Computing Handbook | 📋 Planned |
-| Blockchain Engineering Handbook | 📋 Planned |
-| Security Engineering Handbook | 📋 Planned |
-| Programming Languages Handbook | 📋 Planned |
-| Data Engineering Handbook | 📋 Planned |
-| Testing and Debugging Engineering Handbook | 📋 Planned |
-| Software Architecture Handbook | 📋 Planned |
-
----
