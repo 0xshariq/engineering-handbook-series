@@ -1,35 +1,49 @@
 # Database Engineering Handbook
 
-> **A Complete Guide to Database Internals, SQL, NoSQL, Distributed Systems, and Building Your Own Database Engine**
+> **Engineering Handbook Series**
 
----
+------------------------------------------------------------------------
 
 ## Overview
 
-The **Database Engineering Handbook** is a comprehensive engineering handbook designed to teach how modern database systems work from the inside out.
+The **Database Engineering Handbook** is a comprehensive engineering
+handbook dedicated to teaching how modern database systems work from the
+inside out.
 
-Instead of focusing only on database usage, this handbook explores database architecture, storage engines, indexing, query execution, transactions, distributed databases, NoSQL systems, security, performance, and database implementation.
+Instead of focusing only on database usage, this handbook explores the
+engineering principles behind relational databases, NoSQL systems,
+storage engines, indexing, query processing, transactions, distributed
+databases, security, performance engineering, and database
+implementation.
 
-The handbook follows the philosophy of **teaching WHY before HOW**, helping readers understand engineering principles before implementation details.
+Following the philosophy of **teaching WHY before HOW**, the handbook
+emphasizes engineering intuition before implementation details, enabling
+readers to understand not only how databases are used, but why they are
+designed the way they are.
 
----
+As the flagship handbook of the series, it establishes the engineering
+standards, writing style, and educational philosophy that future
+handbooks in the Engineering Handbook Series follow.
+
+------------------------------------------------------------------------
 
 ## Handbook Information
 
-| Property | Value |
-|----------|-------|
-| Series | Engineering Handbook Series |
-| Handbook ID | EHS-DBE |
-| Document ID | EHS-DBE-E01 |
-| Edition | First Edition |
-| International Identifier | ISBN (Pending) |
-| Publication Status | 🚧 In Progress |
-| Language | English |
-| Volumes | 5 |
-| Chapters | 40 |
-| Author | Sharique Chaudhary |
+| Field | Value |
+|--------|-------|
+| **Title** | Database Engineering Handbook |
+| **Subtitle** | A Complete Guide to Database Internals, SQL, NoSQL, Distributed Systems, Building Your Own Database Engine |
+| **Edition** | First Edition |
+| **Status** | 🚧 In Development |
+| **Series** | Engineering Handbook Series |
+| **Discipline** | Computer Science / Systems Engineering |
+| **Level** | Foundation → Expert |
+| **Volumes** | 5 |
+| **Total Chapters** | 40 |
+| **Sequel Of** | - |
+| **Author** | Sharique Chaudhary |
 
----
+------------------------------------------------------------------------
 
 ## Learning Outcomes
 
@@ -44,7 +58,7 @@ After completing this handbook, readers should be able to:
 - Build scalable database systems.
 - Implement a simplified database engine.
 
----
+------------------------------------------------------------------------
 
 ## Target Audience
 
@@ -59,9 +73,50 @@ This handbook is intended for:
 
 ### Recommended Prerequisites
 
-Basic programming knowledge and familiarity with SQL are helpful but not required.
+Basic programming knowledge and familiarity with SQL are helpful but not
+required.
 
----
+------------------------------------------------------------------------
+
+## Volume Structure
+
+> **Note:** Keep the existing **Volume Structure** section from your
+> current manuscript unchanged and place it here, followed by the
+> sections below.
+
+------------------------------------------------------------------------
+
+## Related Handbooks
+
+- Operating Systems Engineering Handbook *(Planned)*
+- Linux Engineering Handbook *(Planned)*
+- Computer Networking Engineering Handbook *(Planned)*
+- Distributed Systems Handbook *(Planned)*
+
+------------------------------------------------------------------------
+
+## Future Editions
+
+This handbook **will receive a Second Edition**.
+
+Development of the First Edition began before the Engineering Handbook
+Series adopted its finalized master curriculum and publishing standards.
+During the creation of later handbooks, the overall curriculum
+structure, educational philosophy, editorial standards, and long-term
+roadmap evolved significantly.
+
+The Second Edition is planned to align the Database Engineering Handbook
+with the finalized Engineering Handbook Series standards. It will
+reorganize the curriculum where appropriate, expand coverage of
+important engineering topics, improve explanations and diagrams, and
+incorporate lessons learned during the development of subsequent
+handbooks while preserving the core educational philosophy.
+
+The First Edition will continue to serve as the foundation of the
+handbook, while the Second Edition will become the definitive version
+aligned with the mature handbook architecture.
+
+------------------------------------------------------------------------
 
 ## Volume Structure
 
@@ -134,7 +189,7 @@ Study how production database systems implement engineering concepts.
 | Chapter 26 — NoSQL Foundations | Learn the motivation behind NoSQL databases. | ✅ Done |
 | Chapter 27 — MongoDB Internals | Study document-oriented database architecture. | ✅ Done |
 | Chapter 28 — Redis Internals | Explore high-performance in-memory databases. | ✅ Done |
-| Chapter 29 — Cassandra Internals | Understand distributed wide-column databases. | 🚧 Pending |
+| Chapter 29 — Cassandra Internals | Understand distributed wide-column databases. | ✅ Done |
 | Chapter 30 — Neo4j & Graph Databases | Learn graph-based data modeling. | 🚧 Pending |
 | Chapter 31 — SQL vs NoSQL | Build a decision framework for database selection. | 🚧 Pending |
 
@@ -157,22 +212,6 @@ Apply engineering concepts to modern architectures, operations and implementatio
 | Chapter 38 — Monitoring, Observability & Performance Tuning | Understand production monitoring and performance analysis. | 🚧 Pending |
 | Chapter 39 — Build Your Own Database Server | Apply the concepts by implementing a simplified database engine. | 🚧 Pending |
 | Chapter 40 — Quick Reference & Interview Guide | Review essential concepts through concise summaries. | 🚧 Pending |
-
----
-
-## Current Status
-
-🚧 **First Edition is currently under development.**
-
-**Progress:** 27 of 40 chapters have been successfully completed.
-
-Status definitions used throughout this document:
-
-- ✅ Done — Chapter completed.
-- 🚧 Pending — Handbook is in active development, but the chapter has not yet been generated.
-- 📋 Planned — Handbook has not entered active development yet.
-
-Progress, release information and future editions will be published as development continues.
 
 ---
 
