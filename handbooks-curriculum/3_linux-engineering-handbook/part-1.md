@@ -1,5 +1,79 @@
 # Linux Engineering Handbook
 
+> **Engineering Handbook Series**
+
+---
+
+## Overview
+
+The **Linux Engineering Handbook** is a comprehensive engineering reference designed to teach Linux from first principles through modern production engineering.
+
+Rather than treating Linux as simply an operating system to use, this handbook explains Linux as a complete engineering ecosystem—from the Linux kernel and userspace to distributions, package management, storage, networking, security, containers, observability, cloud infrastructure, kernel engineering, and production operations.
+
+The curriculum follows a level-based progression, beginning with Linux foundations before advancing through system administration, kernel internals, performance engineering, security, virtualization, cloud infrastructure, and expert-level Linux engineering topics. As the dedicated Linux sequel to the Operating Systems Engineering Handbook, it builds upon universal operating system concepts while focusing specifically on Linux implementation, architecture, and production engineering.
+
+---
+
+## Handbook Information
+
+| Field | Value |
+|--------|-------|
+| **Title** | Linux Engineering Handbook |
+| **Subtitle** | A Complete Guide to Linux Architecture, Kernel Engineering, Userspace, System Administration, Security, Performance, Containers, Cloud Infrastructure and Production Linux |
+| **Edition** | First Edition |
+| **Status** | 🚧 In Development |
+| **Series** | Engineering Handbook Series |
+| **Discipline** | Computer Science / Systems Engineering |
+| **Level** | Foundation → Expert / Research |
+| **Volumes** | 22 |
+| **Total Chapters** | 1,657  |
+| **Sequel Of** | Operating Systems Engineering Handbook |
+| **Author** | Sharique Chaudhary |
+
+---
+
+## What You Will Learn
+
+After completing this handbook, readers will be able to:
+
+- Understand Linux architecture from boot to userspace.
+- Master Linux system administration and production operations.
+- Understand Linux process, memory, storage, and networking internals.
+- Work confidently with filesystems, package management, and systemd.
+- Build expertise in Linux security, observability, and performance engineering.
+- Understand containers, virtualization, cloud Linux, and modern infrastructure.
+- Read and navigate Linux kernel source code effectively.
+- Build and maintain secure production Linux systems.
+- Understand modern Linux engineering practices across servers, cloud, embedded, AI, and enterprise environments.
+
+---
+
+## Intended Audience
+
+This handbook is designed for:
+
+- Computer Science students
+- Linux learners
+- System Administrators
+- DevOps Engineers
+- Backend Engineers
+- Cloud Engineers
+- Site Reliability Engineers
+- Platform Engineers
+- Security Engineers
+- Kernel Developers
+- Infrastructure Engineers
+- Researchers
+- Anyone interested in mastering Linux from engineering first principles.
+
+---
+
+## Handbook Structure
+
+The handbook is organized into **16 progressive volumes**, with each volume representing a distinct stage in the Linux engineering learning journey. Every volume functions as a self-contained mini-book while contributing to the complete curriculum.
+
+---
+
 ## Volume I — Foundation
 
 **Learning Level:** Foundation
