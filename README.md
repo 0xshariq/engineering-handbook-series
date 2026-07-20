@@ -173,7 +173,7 @@ The free first volume is intended to:
 
 Unless explicitly stated otherwise, **only Volume 1** of a handbook is provided free of charge. All subsequent volumes remain subject to their respective licensing and pricing policies.
 
-The availability of free volumes does not modify the copyright, licensing terms, or intellectual property rights described in `./LICENSING.md`.
+The availability of free volumes does not modify the copyright, licensing terms, or intellectual property rights described in `LICENSING.md`.
 
 ---
 
@@ -184,11 +184,11 @@ This repository serves as the public home of the Engineering Handbook Series.
 It currently includes
 
 - Handbook information
-- Curriculum and volume structure
+- [Curriculum and volume structure](./handbooks-curriculum/)
 - Chapter overviews
 - Project progress
-- Licensing documentation (`[./LICENSING.md](./LICENSING.md)`)
-- Pricing documentation (`[./PRICING.md](./PRICING.md)`) *(Coming Soon)*
+- [Licensing documentation](./LICENSING.md)
+- [Pricing documentation](./PRICING.md)
 
 - Release updates
 
@@ -222,8 +222,8 @@ Instead, the project uses a dedicated **`[LICENSING.md](./LICENSING.md)`** docum
 
 | Document | Purpose |
 |----------|---------|
-| `[./LICENSING.md](./LICENSING.md)` | Complete publishing, copyright and licensing manual for the Engineering Handbook Series. |
-| `[./PRICING.md](./PRICING.md)` | Pricing philosophy, pricing models and commercial policies. **Coming Soon** |
+| `[LICENSING.md](./LICENSING.md)` | Complete publishing, copyright and licensing manual for the Engineering Handbook Series. |
+| `[PRICING.md](./PRICING.md)` | Pricing philosophy, pricing models and commercial policies. **Coming Soon** |
 
 ---
 
