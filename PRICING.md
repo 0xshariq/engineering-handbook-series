@@ -73,29 +73,32 @@ Each part contains several major sections that address one specific area of the 
 - [Part I — Pricing Philosophy \& Commercial Framework](#part-i--pricing-philosophy--commercial-framework)
   - [1. Purpose of This Manual](#1-purpose-of-this-manual)
   - [2. Pricing Philosophy](#2-pricing-philosophy)
-  - [3. Educational Accessibility](#3-educational-accessibility)
-  - [4. Commercial Sustainability](#4-commercial-sustainability)
-  - [5. Relationship with the Licensing Manual](#5-relationship-with-the-licensing-manual)
-  - [6. Scope \& Governance](#6-scope--governance)
-  - [7. Scope of This Manual](#7-scope-of-this-manual)
+  - [3. Curriculum Maturity Model](#3-curriculum-maturity-model)
+  - [4. Educational Accessibility](#4-educational-accessibility)
+  - [5. Commercial Sustainability](#5-commercial-sustainability)
+  - [6. Relationship with the Licensing Manual](#6-relationship-with-the-licensing-manual)
+  - [7. Scope \& Governance](#7-scope--governance)
+  - [8. Scope of This Manual](#8-scope-of-this-manual)
     - [Purpose](#purpose)
-  - [8. Revision, Versioning, and Policy Evolution](#8-revision-versioning-and-policy-evolution)
+  - [9. Revision, Versioning, and Policy Evolution](#9-revision-versioning-and-policy-evolution)
     - [Purpose](#purpose-1)
-  - [9. Decision Summary](#9-decision-summary)
+  - [10. Decision Summary](#10-decision-summary)
     - [Pricing Principles](#pricing-principles)
 - [Part II — Pricing Methodology](#part-ii--pricing-methodology)
   - [1. Overview](#1-overview)
     - [Purpose](#purpose-2)
   - [2. Pricing Workflow](#2-pricing-workflow)
   - [3. Evaluation Factors](#3-evaluation-factors)
+    - [Educational Progression as an Evaluation Context](#educational-progression-as-an-evaluation-context)
   - [4. Factors Not Used for Pricing](#4-factors-not-used-for-pricing)
   - [5. Weighted Evaluation](#5-weighted-evaluation)
   - [6. Pricing Classification](#6-pricing-classification)
   - [7. Final Price Determination](#7-final-price-determination)
   - [8. Decision Summary](#8-decision-summary)
-- [Part III — Knowledge-Level Classification](#part-iii--knowledge-level-classification)
+- [Part III — Curriculum Maturity Classification](#part-iii--curriculum-maturity-classification)
   - [1. Purpose](#1-purpose)
   - [2. Classification Levels](#2-classification-levels)
+    - [Educational Progression](#educational-progression)
   - [3. Classification Criteria](#3-classification-criteria)
   - [4. Multi-Level Publications](#4-multi-level-publications)
   - [5. Relationship with Pricing](#5-relationship-with-pricing)
@@ -104,6 +107,7 @@ Each part contains several major sections that address one specific area of the 
 - [Part IV — Standard Pricing Framework](#part-iv--standard-pricing-framework)
   - [1. Purpose](#1-purpose-1)
   - [2. Standard Personal Pricing](#2-standard-personal-pricing)
+    - [Relationship Between Pricing Levels and Curriculum Levels](#relationship-between-pricing-levels-and-curriculum-levels)
   - [3. Customer Categories](#3-customer-categories)
   - [4. Commercial Pricing Multipliers](#4-commercial-pricing-multipliers)
   - [5. Price Adjustments](#5-price-adjustments)
@@ -112,13 +116,14 @@ Each part contains several major sections that address one specific area of the 
 - [Part V — Commercial Products](#part-v--commercial-products)
   - [1. Purpose](#1-purpose-2)
   - [2. Standard Handbook Volumes](#2-standard-handbook-volumes)
+    - [Capstone Publications](#capstone-publications)
   - [3. Companion Publications](#3-companion-publications)
   - [4. Digital Products](#4-digital-products)
   - [5. Bundles](#5-bundles)
   - [6. New Editions](#6-new-editions)
   - [7. Special Editions](#7-special-editions)
   - [8. Future Product Categories](#8-future-product-categories)
-  - [9. Decision Summary](#9-decision-summary-1)
+  - [9. Decision Summary](#9-decision-summary)
 - [Part VI — Institutional \& Enterprise Pricing](#part-vi--institutional--enterprise-pricing)
   - [1. Purpose](#1-purpose-3)
   - [2. Individual Pricing](#2-individual-pricing)
@@ -128,7 +133,7 @@ Each part contains several major sections that address one specific area of the 
   - [6. Bulk Purchases](#6-bulk-purchases)
   - [7. Regional Pricing](#7-regional-pricing)
   - [8. Promotional Pricing](#8-promotional-pricing)
-  - [9. Decision Summary](#9-decision-summary-2)
+  - [9. Decision Summary](#9-decision-summary-1)
 - [Part VII — Pricing Governance](#part-vii--pricing-governance)
   - [1. Purpose](#1-purpose-4)
   - [2. Pricing Authority](#2-pricing-authority)
@@ -138,7 +143,7 @@ Each part contains several major sections that address one specific area of the 
   - [6. Official Pricing Schedule](#6-official-pricing-schedule)
   - [7. Relationship with Other Manuals](#7-relationship-with-other-manuals)
   - [8. Future Governance](#8-future-governance)
-  - [9. Decision Summary](#9-decision-summary-3)
+  - [9. Decision Summary](#9-decision-summary-2)
 - [Part VIII — Appendices](#part-viii--appendices)
   - [Appendix A — Customer Categories](#appendix-a--customer-categories)
   - [Appendix B — Pricing Factors](#appendix-b--pricing-factors)
@@ -217,10 +222,29 @@ All pricing decisions within the Engineering Handbook ecosystem follow these pri
 - Pricing decisions should be based on objective evaluation criteria.
 - Commercial sustainability should support continued handbook development.
 - Policies should remain scalable for future publications.
+  
+### 3. Curriculum Maturity Model
+
+The Engineering Handbook ecosystem adopts a six-level curriculum maturity model to classify educational progression.
+
+The official curriculum levels are:
+
+1. Foundation
+2. Intermediate
+3. Advanced
+4. Professional
+5. Specialist
+6. Capstone
+
+These classifications describe educational progression rather than commercial value.
+
+Although curriculum level is considered during pricing evaluation, no curriculum level automatically determines a handbook's commercial price.
+
+Commercial pricing shall continue to be determined through the complete pricing methodology defined within this manual.
 
 ---
 
-### 3. Educational Accessibility
+### 4. Educational Accessibility
 
 Pricing should encourage legitimate learning while maintaining sustainable publication.
 
@@ -228,7 +252,7 @@ Where reasonable, pricing policies should improve accessibility through initiati
 
 ---
 
-### 4. Commercial Sustainability
+### 5. Commercial Sustainability
 
 Revenue supports the continued development of the Engineering Handbook ecosystem, including:
 
@@ -244,7 +268,7 @@ Commercial sustainability should never be used to justify arbitrary pricing.
 
 ---
 
-### 5. Relationship with the Licensing Manual
+### 6. Relationship with the Licensing Manual
 
 This manual governs **commercial pricing**.
 
@@ -263,7 +287,7 @@ For complete licensing policies, refer to the appropriate sections of the **Publ
 
 ---
 
-### 6. Scope & Governance
+### 7. Scope & Governance
 
 This manual applies to all Engineering Handbook publications and governs:
 
@@ -278,7 +302,7 @@ This manual applies to all Engineering Handbook publications and governs:
 
 Pricing policies may be updated through official revisions of this manual.
 
-### 7. Scope of This Manual
+### 8. Scope of This Manual
 
 #### Purpose
 
@@ -301,7 +325,7 @@ For those topics, refer to the **Publishing, Copyright & Licensing Manual**.
 
 ---
 
-### 8. Revision, Versioning, and Policy Evolution
+### 9. Revision, Versioning, and Policy Evolution
 
 #### Purpose
 
@@ -313,7 +337,7 @@ Major pricing changes SHALL be documented through official manual revisions to e
 
 ---
 
-### 9. Decision Summary
+### 10. Decision Summary
 
 #### Pricing Principles
 
@@ -376,6 +400,16 @@ Primary evaluation factors include:
 | Long-Term Maintenance | Expected update effort |
 
 No single factor independently determines the final price.
+
+#### Educational Progression as an Evaluation Context
+
+Knowledge-level classification provides context for commercial evaluation.
+
+As publications progress from Foundation through Capstone, they generally require greater educational integration, editorial review, engineering validation, and production effort.
+
+However, educational progression is only one evaluation factor.
+
+Research effort, engineering complexity, publication scope, production quality, long-term maintenance, and commercial product type remain independent pricing considerations.
 
 ---
 
@@ -443,7 +477,7 @@ The pricing methodology ensures that every commercial price is:
 
 ---
 
-## Part III — Knowledge-Level Classification
+## Part III — Curriculum Maturity Classification
 
 ### 1. Purpose
 
@@ -464,6 +498,25 @@ Knowledge level is one pricing factor and SHALL NOT independently determine the 
 | Advanced | Experienced learners | Covers advanced engineering concepts, implementation details, and deeper technical understanding. |
 | Professional | Industry professionals | Focuses on production systems, real-world engineering practices, optimization, and large-scale implementations. |
 | Specialist | Subject-matter experts | Covers niche domains, research topics, or highly specialized engineering knowledge. |
+| Capstone (Application) | Engineers ready to build complete systems | Integrates knowledge from all previous levels into end-to-end projects, production architectures, engineering case studies, and real-world system implementation. |
+
+#### Educational Progression
+
+The six curriculum levels are designed to represent a complete engineering learning pathway.
+
+Foundation establishes core concepts.
+
+Intermediate develops practical engineering skills.
+
+Advanced introduces complex engineering implementation.
+
+Professional focuses on production engineering and industry practices.
+
+Specialist explores highly specialized domains and research-oriented topics.
+
+Capstone integrates knowledge from all previous curriculum levels into complete engineering systems, production architectures, reference implementations, and comprehensive end-to-end projects.
+
+The progression is educational rather than contractual and does not create different licensing rights.
 
 ---
 
@@ -503,6 +556,10 @@ Final pricing also considers:
 - research effort;
 - production effort; and
 - publication scope.
+
+Capstone publications should not automatically receive higher pricing solely because they represent the highest educational level.
+
+Their pricing shall continue to follow the complete commercial evaluation methodology described in this manual.
 
 ---
 
@@ -549,6 +606,18 @@ The following ranges represent the **base Personal pricing**.
 | Level 6 — Specialized / Exceptional | ₹40,000+ (requires documented justification) |
 
 Student pricing is derived from the approved Personal price through the official student discount policy.
+
+#### Relationship Between Pricing Levels and Curriculum Levels
+
+Pricing Levels and Curriculum Levels are separate classification systems.
+
+Pricing Levels measure commercial value.
+
+Curriculum Levels measure educational progression.
+
+Although they often correlate, they are evaluated independently.
+
+A Capstone publication may receive any pricing level if justified by the complete pricing methodology.
 
 ---
 
@@ -623,6 +692,14 @@ This section defines the categories of commercial products and the pricing polic
 Standard handbook volumes are the primary educational publications within the Engineering Handbook Series.
 
 Pricing follows the standard methodology defined in Parts II–IV of this manual.
+
+#### Capstone Publications
+
+Capstone publications represent the final educational stage of a handbook curriculum.
+
+They emphasize complete engineering systems, production-grade implementations, architectural integration, and comprehensive engineering projects.
+
+Capstone publications are standard handbook volumes unless explicitly designated as a different commercial product category.
 
 ---
 
@@ -942,6 +1019,8 @@ This manual should be read alongside the following Engineering Handbook governan
 | Price Range | Recommended selling range for a pricing class and customer category. |
 | Customer Category | The purchaser type (Personal, Student, Institutional, or Enterprise). |
 | Official Pricing Schedule | The document containing current commercial prices. |
+| Curriculum Level | Educational maturity classification assigned to handbook publications. |
+| Capstone | The sixth and highest curriculum level focused on complete engineering systems, production implementations, and integrated capstone projects. |
 
 ---
 
