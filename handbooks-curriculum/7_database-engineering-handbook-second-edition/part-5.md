@@ -675,7 +675,7 @@ Volume XXI serves as the capstone of the Database Engineering Handbook. It integ
 
 ---
 
-# Database Engineering Handbook — Complete
+## Database Engineering Handbook — Complete
 
 Congratulations on completing the **Database Engineering Handbook**.
 
