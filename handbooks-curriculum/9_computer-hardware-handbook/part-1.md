@@ -26,7 +26,7 @@ The curriculum follows a level-based progression, beginning with electricity, el
 | **Discipline** | Computer Science / Computer Hardware Engineering |
 | **Level** | Foundation → Intermediate → Advanced → Professional → Specialist |
 | **Volumes** | 21 |
-| **Total Chapters** | 1,606* |
+| **Total Chapters** | 1814 |
 | **Sequel Of** | - |
 | **Author** | Sharique Chaudhary |
 
