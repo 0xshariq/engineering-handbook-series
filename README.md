@@ -26,8 +26,7 @@
   - [Free Volume Policy](#free-volume-policy)
   - [Repository](#repository)
     - [Repository Contents](#repository-contents)
-  - [Development](#development)
-    - [Development Status](#development-status)
+  - [Development Status](#development-status)
     - [Documentation](#documentation)
     - [Repository Documents](#repository-documents)
     - [Available Handbooks](#available-handbooks)
@@ -282,31 +281,17 @@ Additional resources will be published as development progresses.
 
 ------------------------------------------------------------------------
 
-## Development
+## Development Status
 
-### Development Status
+The Engineering Handbook Series is developed incrementally. Each handbook curriculum includes a **Status** column to indicate the current development progress of every chapter.
 
-The Engineering Handbook Series is developed incrementally. Each
-handbook curriculum includes a **Status** column to indicate the current
-development progress of every chapter.
+| Status | Meaning |
+|--------|---------|
+| ✅ **Done** | The chapter has been completed and is part of the current handbook manuscript. |
+| 🚧 **Pending** | The handbook is currently under active development, but this chapter has not yet been generated. |
+| 📋 **Planned** | Development of the handbook has not yet started. |
 
-  -----------------------------------------------------------------------
-  Status                            Meaning
-  --------------------------------- -------------------------------------
-  ✅ **Done**                       The chapter has been completed and is
-                                    part of the current handbook
-                                    manuscript.
-
-  🚧 **Pending**                    The handbook is currently under
-                                    active development, but this chapter
-                                    has not yet been generated.
-
-📋 **Planned**                    Development of the handbook has not
-                                    yet started
-  -----------------------------------------------------------------------
-
-As handbook development progresses, chapter statuses will be updated to
-reflect the latest progress.
+As handbook development progresses, chapter statuses will be updated to reflect the latest progress.
 
 ------------------------------------------------------------------------
 
@@ -332,17 +317,10 @@ publishing policies that cannot reasonably fit inside a conventional
 
 ### Repository Documents
 
-  -----------------------------------------------------------------------
-  Document                              Purpose
-  ------------------------------------- ---------------------------------
-  `[LICENSING.md](./LICENSING.md)`      Complete publishing, copyright
-                                        and licensing manual for the
-                                        Engineering Handbook Series.
-
-`[PRICING.md](./PRICING.md)`          Pricing philosophy, pricing
-                                        models and commercial policies.
-                                        **Coming Soon**
-  -----------------------------------------------------------------------
+| Document | Purpose |
+|----------|---------|
+| `[LICENSING.md](./LICENSING.md)` | Complete publishing, copyright and licensing manual for the Engineering Handbook Series. |
+| `[PRICING.md](./PRICING.md)` | Pricing philosophy, pricing models and commercial policies. |
 
 ------------------------------------------------------------------------
 
@@ -354,21 +332,21 @@ repository layout.
 
 Example additions include:
 
-  Handbook                                     Status
-  -------------------------------------------- ------------
-  Backend Engineering Handbook                 📋 Planned
-  Frontend Engineering Handbook                📋 Planned
-  Computer Architecture Handbook               📋 Planned
-  Computer Hardware Handbook                   📋 Planned
-  Distributed Systems Handbook                 📋 Planned
-  DevOps Engineering Handbook                  📋 Planned
-  Cloud Computing Handbook                     📋 Planned
-  Blockchain Engineering Handbook              📋 Planned
-  Security Engineering Handbook                📋 Planned
-  Programming Languages Handbook               📋 Planned
-  Data Engineering Handbook                    📋 Planned
-  Testing and Debugging Engineering Handbook   📋 Planned
-  Software Architecture Handbook               📋 Planned
+  | Handbook | Status |
+  |----------|--------|
+  | Backend Engineering Handbook | 📋 Planned |
+  | Frontend Engineering Handbook | 📋 Planned |
+  | Computer Architecture Handbook | 📋 Planned |
+  | Computer Hardware Handbook | 📋 Planned |
+  | Distributed Systems Handbook | 📋 Planned |
+  | DevOps Engineering Handbook | 📋 Planned |
+  | Cloud Computing Handbook | 📋 Planned |
+  | Blockchain Engineering Handbook | 📋 Planned |
+  | Security Engineering Handbook | 📋 Planned |
+  | Programming Languages Handbook | 📋 Planned |
+  | Data Engineering Handbook | 📋 Planned |
+  | Testing and Debugging Engineering Handbook | 📋 Planned |
+  | Software Architecture Handbook | 📋 Planned |
 
 ------------------------------------------------------------------------
 
