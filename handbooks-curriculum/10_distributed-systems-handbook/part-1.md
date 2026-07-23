@@ -30,7 +30,7 @@ The curriculum follows a level-based progression, beginning with distributed sys
 | **Sequel Of** | - |
 | **Author** | Sharique Chaudhary |
 
-> **\** Includes the original audited curriculum together with additional research-gap chapters, modern distributed systems topics, professional engineering practice chapters, and an independent glossary for every volume.
+> Includes the original audited curriculum together with additional research-gap chapters, modern distributed systems topics, professional engineering practice chapters, and an independent glossary for every volume.
 
 ---
 

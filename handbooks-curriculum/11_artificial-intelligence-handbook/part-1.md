@@ -30,7 +30,7 @@ The curriculum follows a level-based progression, beginning with artificial inte
 | **Sequel Of** | - |
 | **Author** | Sharique Chaudhary |
 
-> **\*** Includes the original audited curriculum together with an extensive frontier research expansion, additional AI systems engineering topics, modern foundation-model research, production AI engineering, independent glossary chapters for every volume, and comprehensive research-gap coverage identified during the July 2026 research audit. :contentReference[oaicite:1]{index=1}
+> Includes the original audited curriculum together with an extensive frontier research expansion, additional AI systems engineering topics, modern foundation-model research, production AI engineering, independent glossary chapters for every volume, and comprehensive research-gap coverage identified during the July 2026 research audit.
 
 ---
 

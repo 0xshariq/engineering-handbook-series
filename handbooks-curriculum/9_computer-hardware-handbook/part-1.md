@@ -30,7 +30,7 @@ The curriculum follows a level-based progression, beginning with electricity, el
 | **Sequel Of** | - |
 | **Author** | Sharique Chaudhary |
 
-> **\** Includes the original 1,583 audited chapters together with additional research-gap chapters and a glossary for every volume.
+> Includes the original 1,583 audited chapters together with additional research-gap chapters and a glossary for every volume.
 
 ---
 
