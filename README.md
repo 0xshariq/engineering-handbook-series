@@ -139,8 +139,8 @@ readers to learn progressively.
 Each volume has a clearly defined scope while remaining part of a larger
 learning roadmap.
 
-Volumes are divided into levels : foundation,intermediate,advanced,
-professional and research/expert/specialist, this help us determine the
+Volumes are divided into levels : foundation, intermediate, advanced, 
+professional, research/expert/specialist, and capstone. This help us determine the
 pricing.
 
 ------------------------------------------------------------------------
