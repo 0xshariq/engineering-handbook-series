@@ -524,8 +524,6 @@ The concluding volume brings together every concept developed throughout the *Fr
 
 ---
 
----
-
 ## Frontend Engineering Handbook — Complete
 
 Congratulations on completing the **Frontend Engineering Handbook**.
