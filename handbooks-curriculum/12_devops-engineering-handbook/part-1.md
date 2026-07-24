@@ -30,7 +30,7 @@ The curriculum follows a level-based progression, beginning with DevOps foundati
 | **Sequel Of** | - |
 | **Author** | Sharique Chaudhary |
 
-> Includes the original audited curriculum together with a comprehensive research-audited frontier expansion, modern DevOps engineering domains, professional platform engineering practices, independent glossary chapters for every volume, and extensive coverage of contemporary cloud-native, AI-assisted, and production infrastructure engineering topics identified during the July 2026 research audit. :contentReference[oaicite:2]{index=2}
+> Includes the original audited curriculum together with a comprehensive research-audited frontier expansion, modern DevOps engineering domains, professional platform engineering practices, independent glossary chapters for every volume, and extensive coverage of contemporary cloud-native, AI-assisted, and production infrastructure engineering topics identified during the July 2026 research audit. 
 
 ---
 
